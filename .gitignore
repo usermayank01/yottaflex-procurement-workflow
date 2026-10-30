@@ -1,0 +1,4 @@
+__pycache__/\n.pytest_cache/\n.venv/\nartifacts/\n
+__pycache__/
+*.pyc
+.pytest_cache/

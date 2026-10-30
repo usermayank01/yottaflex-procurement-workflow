@@ -1,0 +1,802 @@
+[
+  {
+    "request_line_id": "RL-00001-01",
+    "request_id": "PR-2026-000001",
+    "item": "Network Switch",
+    "category": "IT",
+    "quantity": 3,
+    "unit_cost": 3494.82,
+    "estimated_cost": 10484.46,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00001-02",
+    "request_id": "PR-2026-000001",
+    "item": "Office Chair",
+    "category": "Facilities",
+    "quantity": 4,
+    "unit_cost": 3022.65,
+    "estimated_cost": 12090.6,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00002-01",
+    "request_id": "PR-2026-000002",
+    "item": "Office Chair",
+    "category": "Facilities",
+    "quantity": 4,
+    "unit_cost": 4313.25,
+    "estimated_cost": 17253.0,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00002-02",
+    "request_id": "PR-2026-000002",
+    "item": "Printer",
+    "category": "Facilities",
+    "quantity": 5,
+    "unit_cost": 528.02,
+    "estimated_cost": 2640.1,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00002-03",
+    "request_id": "PR-2026-000002",
+    "item": "Safety Equipment",
+    "category": "Operations",
+    "quantity": 6,
+    "unit_cost": 4170.97,
+    "estimated_cost": 25025.82,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00003-01",
+    "request_id": "PR-2026-000003",
+    "item": "Printer",
+    "category": "Facilities",
+    "quantity": 5,
+    "unit_cost": 1383.1,
+    "estimated_cost": 6915.5,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00004-01",
+    "request_id": "PR-2026-000004",
+    "item": "Safety Equipment",
+    "category": "Operations",
+    "quantity": 6,
+    "unit_cost": 313.75,
+    "estimated_cost": 1882.5,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00004-02",
+    "request_id": "PR-2026-000004",
+    "item": "Packaging Material",
+    "category": "Operations",
+    "quantity": 7,
+    "unit_cost": 4179.85,
+    "estimated_cost": 29258.95,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00005-01",
+    "request_id": "PR-2026-000005",
+    "item": "Packaging Material",
+    "category": "Operations",
+    "quantity": 7,
+    "unit_cost": 918.85,
+    "estimated_cost": 6431.95,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00005-02",
+    "request_id": "PR-2026-000005",
+    "item": "Software License",
+    "category": "Software",
+    "quantity": 8,
+    "unit_cost": 1234.6,
+    "estimated_cost": 9876.8,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00005-03",
+    "request_id": "PR-2026-000005",
+    "item": "Server RAM",
+    "category": "IT",
+    "quantity": 9,
+    "unit_cost": 1750.11,
+    "estimated_cost": 15750.99,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00006-01",
+    "request_id": "PR-2026-000006",
+    "item": "Software License",
+    "category": "Software",
+    "quantity": 8,
+    "unit_cost": 3599.64,
+    "estimated_cost": 28797.12,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00007-01",
+    "request_id": "PR-2026-000007",
+    "item": "Server RAM",
+    "category": "IT",
+    "quantity": 9,
+    "unit_cost": 3391.01,
+    "estimated_cost": 30519.09,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00007-02",
+    "request_id": "PR-2026-000007",
+    "item": "Barcode Scanner",
+    "category": "Operations",
+    "quantity": 10,
+    "unit_cost": 801.02,
+    "estimated_cost": 8010.2,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00008-01",
+    "request_id": "PR-2026-000008",
+    "item": "Barcode Scanner",
+    "category": "Operations",
+    "quantity": 10,
+    "unit_cost": 1209.14,
+    "estimated_cost": 12091.4,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00008-02",
+    "request_id": "PR-2026-000008",
+    "item": "Laptop",
+    "category": "IT",
+    "quantity": 1,
+    "unit_cost": 1006.36,
+    "estimated_cost": 1006.36,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00008-03",
+    "request_id": "PR-2026-000008",
+    "item": "Monitor",
+    "category": "IT",
+    "quantity": 2,
+    "unit_cost": 844.35,
+    "estimated_cost": 1688.7,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00009-01",
+    "request_id": "PR-2026-000009",
+    "item": "Laptop",
+    "category": "IT",
+    "quantity": 1,
+    "unit_cost": 3074.13,
+    "estimated_cost": 3074.13,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00010-01",
+    "request_id": "PR-2026-000010",
+    "item": "Monitor",
+    "category": "IT",
+    "quantity": 2,
+    "unit_cost": 323.94,
+    "estimated_cost": 647.88,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00010-02",
+    "request_id": "PR-2026-000010",
+    "item": "Network Switch",
+    "category": "IT",
+    "quantity": 3,
+    "unit_cost": 840.1,
+    "estimated_cost": 2520.3,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00011-01",
+    "request_id": "PR-2026-000011",
+    "item": "Network Switch",
+    "category": "IT",
+    "quantity": 3,
+    "unit_cost": 962.38,
+    "estimated_cost": 2887.14,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00011-02",
+    "request_id": "PR-2026-000011",
+    "item": "Office Chair",
+    "category": "Facilities",
+    "quantity": 4,
+    "unit_cost": 1934.21,
+    "estimated_cost": 7736.84,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00011-03",
+    "request_id": "PR-2026-000011",
+    "item": "Printer",
+    "category": "Facilities",
+    "quantity": 5,
+    "unit_cost": 568.14,
+    "estimated_cost": 2840.7,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00012-01",
+    "request_id": "PR-2026-000012",
+    "item": "Office Chair",
+    "category": "Facilities",
+    "quantity": 4,
+    "unit_cost": 4218.49,
+    "estimated_cost": 16873.96,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00013-01",
+    "request_id": "PR-2026-000013",
+    "item": "Printer",
+    "category": "Facilities",
+    "quantity": 5,
+    "unit_cost": 997.18,
+    "estimated_cost": 4985.9,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00013-02",
+    "request_id": "PR-2026-000013",
+    "item": "Safety Equipment",
+    "category": "Operations",
+    "quantity": 6,
+    "unit_cost": 2449.88,
+    "estimated_cost": 14699.28,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00014-01",
+    "request_id": "PR-2026-000014",
+    "item": "Safety Equipment",
+    "category": "Operations",
+    "quantity": 6,
+    "unit_cost": 4602.72,
+    "estimated_cost": 27616.32,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00014-02",
+    "request_id": "PR-2026-000014",
+    "item": "Packaging Material",
+    "category": "Operations",
+    "quantity": 7,
+    "unit_cost": 2945.64,
+    "estimated_cost": 20619.48,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00014-03",
+    "request_id": "PR-2026-000014",
+    "item": "Software License",
+    "category": "Software",
+    "quantity": 8,
+    "unit_cost": 2711.27,
+    "estimated_cost": 21690.16,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00015-01",
+    "request_id": "PR-2026-000015",
+    "item": "Packaging Material",
+    "category": "Operations",
+    "quantity": 7,
+    "unit_cost": 2714.14,
+    "estimated_cost": 18998.98,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00016-01",
+    "request_id": "PR-2026-000016",
+    "item": "Software License",
+    "category": "Software",
+    "quantity": 8,
+    "unit_cost": 746.31,
+    "estimated_cost": 5970.48,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00016-02",
+    "request_id": "PR-2026-000016",
+    "item": "Server RAM",
+    "category": "IT",
+    "quantity": 9,
+    "unit_cost": 1135.13,
+    "estimated_cost": 10216.17,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00017-01",
+    "request_id": "PR-2026-000017",
+    "item": "Server RAM",
+    "category": "IT",
+    "quantity": 9,
+    "unit_cost": 3191.81,
+    "estimated_cost": 28726.29,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00017-02",
+    "request_id": "PR-2026-000017",
+    "item": "Barcode Scanner",
+    "category": "Operations",
+    "quantity": 10,
+    "unit_cost": 2257.11,
+    "estimated_cost": 22571.1,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00017-03",
+    "request_id": "PR-2026-000017",
+    "item": "Laptop",
+    "category": "IT",
+    "quantity": 1,
+    "unit_cost": 717.85,
+    "estimated_cost": 717.85,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00018-01",
+    "request_id": "PR-2026-000018",
+    "item": "Barcode Scanner",
+    "category": "Operations",
+    "quantity": 10,
+    "unit_cost": 2447.26,
+    "estimated_cost": 24472.6,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00019-01",
+    "request_id": "PR-2026-000019",
+    "item": "Laptop",
+    "category": "IT",
+    "quantity": 1,
+    "unit_cost": 3896.92,
+    "estimated_cost": 3896.92,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00019-02",
+    "request_id": "PR-2026-000019",
+    "item": "Monitor",
+    "category": "IT",
+    "quantity": 2,
+    "unit_cost": 515.31,
+    "estimated_cost": 1030.62,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00020-01",
+    "request_id": "PR-2026-000020",
+    "item": "Monitor",
+    "category": "IT",
+    "quantity": 2,
+    "unit_cost": 4312.11,
+    "estimated_cost": 8624.22,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00020-02",
+    "request_id": "PR-2026-000020",
+    "item": "Network Switch",
+    "category": "IT",
+    "quantity": 3,
+    "unit_cost": 4642.43,
+    "estimated_cost": 13927.29,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00020-03",
+    "request_id": "PR-2026-000020",
+    "item": "Office Chair",
+    "category": "Facilities",
+    "quantity": 4,
+    "unit_cost": 1277.56,
+    "estimated_cost": 5110.24,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00021-01",
+    "request_id": "PR-2026-000021",
+    "item": "Network Switch",
+    "category": "IT",
+    "quantity": 3,
+    "unit_cost": 571.94,
+    "estimated_cost": 1715.82,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00022-01",
+    "request_id": "PR-2026-000022",
+    "item": "Office Chair",
+    "category": "Facilities",
+    "quantity": 4,
+    "unit_cost": 639.34,
+    "estimated_cost": 2557.36,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00022-02",
+    "request_id": "PR-2026-000022",
+    "item": "Printer",
+    "category": "Facilities",
+    "quantity": 5,
+    "unit_cost": 750.74,
+    "estimated_cost": 3753.7,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00023-01",
+    "request_id": "PR-2026-000023",
+    "item": "Printer",
+    "category": "Facilities",
+    "quantity": 5,
+    "unit_cost": 2672.03,
+    "estimated_cost": 13360.15,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00023-02",
+    "request_id": "PR-2026-000023",
+    "item": "Safety Equipment",
+    "category": "Operations",
+    "quantity": 6,
+    "unit_cost": 327.09,
+    "estimated_cost": 1962.54,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00023-03",
+    "request_id": "PR-2026-000023",
+    "item": "Packaging Material",
+    "category": "Operations",
+    "quantity": 7,
+    "unit_cost": 653.18,
+    "estimated_cost": 4572.26,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00024-01",
+    "request_id": "PR-2026-000024",
+    "item": "Safety Equipment",
+    "category": "Operations",
+    "quantity": 6,
+    "unit_cost": 1333.85,
+    "estimated_cost": 8003.1,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00025-01",
+    "request_id": "PR-2026-000025",
+    "item": "Packaging Material",
+    "category": "Operations",
+    "quantity": 7,
+    "unit_cost": 4971.29,
+    "estimated_cost": 34799.03,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00025-02",
+    "request_id": "PR-2026-000025",
+    "item": "Software License",
+    "category": "Software",
+    "quantity": 8,
+    "unit_cost": 2553.74,
+    "estimated_cost": 20429.92,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00026-01",
+    "request_id": "PR-2026-000026",
+    "item": "Software License",
+    "category": "Software",
+    "quantity": 8,
+    "unit_cost": 649.8,
+    "estimated_cost": 5198.4,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00026-02",
+    "request_id": "PR-2026-000026",
+    "item": "Server RAM",
+    "category": "IT",
+    "quantity": 9,
+    "unit_cost": 2805.06,
+    "estimated_cost": 25245.54,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00026-03",
+    "request_id": "PR-2026-000026",
+    "item": "Barcode Scanner",
+    "category": "Operations",
+    "quantity": 10,
+    "unit_cost": 3867.06,
+    "estimated_cost": 38670.6,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00027-01",
+    "request_id": "PR-2026-000027",
+    "item": "Server RAM",
+    "category": "IT",
+    "quantity": 9,
+    "unit_cost": 2018.49,
+    "estimated_cost": 18166.41,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00028-01",
+    "request_id": "PR-2026-000028",
+    "item": "Barcode Scanner",
+    "category": "Operations",
+    "quantity": 10,
+    "unit_cost": 3924.94,
+    "estimated_cost": 39249.4,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00028-02",
+    "request_id": "PR-2026-000028",
+    "item": "Laptop",
+    "category": "IT",
+    "quantity": 1,
+    "unit_cost": 3087.67,
+    "estimated_cost": 3087.67,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00029-01",
+    "request_id": "PR-2026-000029",
+    "item": "Laptop",
+    "category": "IT",
+    "quantity": 1,
+    "unit_cost": 4957.84,
+    "estimated_cost": 4957.84,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00029-02",
+    "request_id": "PR-2026-000029",
+    "item": "Monitor",
+    "category": "IT",
+    "quantity": 2,
+    "unit_cost": 325.07,
+    "estimated_cost": 650.14,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00029-03",
+    "request_id": "PR-2026-000029",
+    "item": "Network Switch",
+    "category": "IT",
+    "quantity": 3,
+    "unit_cost": 2557.26,
+    "estimated_cost": 7671.78,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00030-01",
+    "request_id": "PR-2026-000030",
+    "item": "Monitor",
+    "category": "IT",
+    "quantity": 2,
+    "unit_cost": 1418.2,
+    "estimated_cost": 2836.4,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00031-01",
+    "request_id": "PR-2026-000031",
+    "item": "Network Switch",
+    "category": "IT",
+    "quantity": 3,
+    "unit_cost": 434.01,
+    "estimated_cost": 1302.03,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00031-02",
+    "request_id": "PR-2026-000031",
+    "item": "Office Chair",
+    "category": "Facilities",
+    "quantity": 4,
+    "unit_cost": 3633.04,
+    "estimated_cost": 14532.16,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00032-01",
+    "request_id": "PR-2026-000032",
+    "item": "Office Chair",
+    "category": "Facilities",
+    "quantity": 4,
+    "unit_cost": 1731.29,
+    "estimated_cost": 6925.16,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00032-02",
+    "request_id": "PR-2026-000032",
+    "item": "Printer",
+    "category": "Facilities",
+    "quantity": 5,
+    "unit_cost": 2727.79,
+    "estimated_cost": 13638.95,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00032-03",
+    "request_id": "PR-2026-000032",
+    "item": "Safety Equipment",
+    "category": "Operations",
+    "quantity": 6,
+    "unit_cost": 3769.78,
+    "estimated_cost": 22618.68,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00033-01",
+    "request_id": "PR-2026-000033",
+    "item": "Printer",
+    "category": "Facilities",
+    "quantity": 5,
+    "unit_cost": 3427.42,
+    "estimated_cost": 17137.1,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00034-01",
+    "request_id": "PR-2026-000034",
+    "item": "Safety Equipment",
+    "category": "Operations",
+    "quantity": 6,
+    "unit_cost": 3735.88,
+    "estimated_cost": 22415.28,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00034-02",
+    "request_id": "PR-2026-000034",
+    "item": "Packaging Material",
+    "category": "Operations",
+    "quantity": 7,
+    "unit_cost": 4328.88,
+    "estimated_cost": 30302.16,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00035-01",
+    "request_id": "PR-2026-000035",
+    "item": "Packaging Material",
+    "category": "Operations",
+    "quantity": 7,
+    "unit_cost": 2500.44,
+    "estimated_cost": 17503.08,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00035-02",
+    "request_id": "PR-2026-000035",
+    "item": "Software License",
+    "category": "Software",
+    "quantity": 8,
+    "unit_cost": 4268.82,
+    "estimated_cost": 34150.56,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00035-03",
+    "request_id": "PR-2026-000035",
+    "item": "Server RAM",
+    "category": "IT",
+    "quantity": 9,
+    "unit_cost": 864.15,
+    "estimated_cost": 7777.35,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00036-01",
+    "request_id": "PR-2026-000036",
+    "item": "Software License",
+    "category": "Software",
+    "quantity": 8,
+    "unit_cost": 4540.01,
+    "estimated_cost": 36320.08,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00037-01",
+    "request_id": "PR-2026-000037",
+    "item": "Server RAM",
+    "category": "IT",
+    "quantity": 9,
+    "unit_cost": 3033.5,
+    "estimated_cost": 27301.5,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00037-02",
+    "request_id": "PR-2026-000037",
+    "item": "Barcode Scanner",
+    "category": "Operations",
+    "quantity": 10,
+    "unit_cost": 537.35,
+    "estimated_cost": 5373.5,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00038-01",
+    "request_id": "PR-2026-000038",
+    "item": "Barcode Scanner",
+    "category": "Operations",
+    "quantity": 10,
+    "unit_cost": 510.77,
+    "estimated_cost": 5107.7,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00038-02",
+    "request_id": "PR-2026-000038",
+    "item": "Laptop",
+    "category": "IT",
+    "quantity": 1,
+    "unit_cost": 2672.95,
+    "estimated_cost": 2672.95,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00038-03",
+    "request_id": "PR-2026-000038",
+    "item": "Monitor",
+    "category": "IT",
+    "quantity": 2,
+    "unit_cost": 365.65,
+    "estimated_cost": 731.3,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00039-01",
+    "request_id": "PR-2026-000039",
+    "item": "Laptop",
+    "category": "IT",
+    "quantity": 1,
+    "unit_cost": 2715.46,
+    "estimated_cost": 2715.46,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00040-01",
+    "request_id": "PR-2026-000040",
+    "item": "Monitor",
+    "category": "IT",
+    "quantity": 2,
+    "unit_cost": 2329.07,
+    "estimated_cost": 4658.14,
+    "currency": "INR"
+  },
+  {
+    "request_line_id": "RL-00040-02",
+    "request_id": "PR-2026-000040",
+    "item": "Network Switch",
+    "category": "IT",
+    "quantity": 3,
+    "unit_cost": 2462.56,
+    "estimated_cost": 7387.68,
+    "currency": "INR"
+  }
+]

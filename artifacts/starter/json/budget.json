@@ -1,0 +1,58 @@
+[
+  {
+    "budget_id": "BUG-001",
+    "department_id": "DEP-001",
+    "fiscal_year": "2026",
+    "allocated_amount": 525000.0,
+    "reserved_amount": 0.0
+  },
+  {
+    "budget_id": "BUG-002",
+    "department_id": "DEP-002",
+    "fiscal_year": "2026",
+    "allocated_amount": 550000.0,
+    "reserved_amount": 0.0
+  },
+  {
+    "budget_id": "BUG-003",
+    "department_id": "DEP-003",
+    "fiscal_year": "2026",
+    "allocated_amount": 575000.0,
+    "reserved_amount": 0.0
+  },
+  {
+    "budget_id": "BUG-004",
+    "department_id": "DEP-004",
+    "fiscal_year": "2026",
+    "allocated_amount": 600000.0,
+    "reserved_amount": 0.0
+  },
+  {
+    "budget_id": "BUG-005",
+    "department_id": "DEP-005",
+    "fiscal_year": "2026",
+    "allocated_amount": 625000.0,
+    "reserved_amount": 0.0
+  },
+  {
+    "budget_id": "BUG-006",
+    "department_id": "DEP-006",
+    "fiscal_year": "2026",
+    "allocated_amount": 650000.0,
+    "reserved_amount": 0.0
+  },
+  {
+    "budget_id": "BUG-007",
+    "department_id": "DEP-007",
+    "fiscal_year": "2026",
+    "allocated_amount": 675000.0,
+    "reserved_amount": 0.0
+  },
+  {
+    "budget_id": "BUG-008",
+    "department_id": "DEP-008",
+    "fiscal_year": "2026",
+    "allocated_amount": 700000.0,
+    "reserved_amount": 0.0
+  }
+]

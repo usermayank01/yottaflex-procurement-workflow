@@ -1,0 +1,8 @@
+case_id,entity_type,entity_id,issue_type,ground_truth_label,rationale
+GT-0001,PurchaseOrder,PO-2026-000001,PO_WITHOUT_APPROVAL,REJECT,PO requires approval when threshold is exceeded.
+GT-0002,SupplierQuote,QUO-S0004-2026-000001,QUOTE_EXPIRED_BEFORE_AWARD,REJECT,Expired quotes cannot be awarded.
+GT-0003,SupplierQuote,QUO-S0005-2026-000002,NONCHEAPEST_WITHOUT_RATIONALE,REVIEW,A non-cheapest selection requires documented rationale.
+GT-0004,Supplier,SUP-0010,INACTIVE_SUPPLIER,REJECT,Inactive suppliers are ineligible for award.
+GT-0005,Budget,BUG-001,BUDGET_OVERRUN,REVIEW,Budget exceptions require review.
+GT-0006,PurchaseRequest,PR-2026-000001,DUPLICATE_REQUEST,REVIEW,Duplicate requests should be flagged.
+GT-0007,SupplierQuote,QUO-S0008-2026-000045,QUOTE_CURRENCY_MISMATCH,REVIEW,Currency must match before comparison/award.

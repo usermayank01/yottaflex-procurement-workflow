@@ -1,0 +1,34 @@
+{
+  "seed": 20261022,
+  "scale": "starter",
+  "counts": {
+    "requester": 20,
+    "department": 8,
+    "budget": 8,
+    "purchase_request": 40,
+    "request_line": 80,
+    "supplier": 10,
+    "rfq": 15,
+    "supplier_quote": 45,
+    "approval": 34,
+    "purchase_order": 25,
+    "delivery": 25,
+    "workflow_event": 25,
+    "ground_truth": 7
+  },
+  "files": {
+    "csv/approval.csv": "875cf592a0ac7c74a18efe56a19445a6248c26a2bacf723911286b7753a9fef0",
+    "csv/budget.csv": "a6f0fc3509954c5474dca7ae6e90b122322851fa124a91ee3b03e1266d3ffd85",
+    "csv/delivery.csv": "0dc59555cfb3195ca344f32ba25a5dd36dab766e9bd9143f2f1504ebecf89495",
+    "csv/department.csv": "f8964599fe47806779774fdbbe54d973a89b3e0469163df7a9d829fb40957ee5",
+    "csv/ground_truth.csv": "38cb887c5039eb4c7fc75e78947ae3f34f4da3b9793b251d9cc42a1304a28cba",
+    "csv/purchase_order.csv": "767a2e2fffb3a617dbcdfb6dbb088c84dd2e3ca6ee4486745bb7f9d4c3c41159",
+    "csv/purchase_request.csv": "557a692aef0b0056323d610ee6018611277d02787dce9765cf9ab883c70c3700",
+    "csv/request_line.csv": "4ae1b1d4e232aa87b71ef58c35ef5f13743f767b07533e67f78b1ce56391715d",
+    "csv/requester.csv": "7081de73ae8e2d3bc56009328f9f3654f56f6a22faaf7b3f6a391e315d4a0803",
+    "csv/rfq.csv": "00b648fa849e721c4f2c4a99e72a4c6716b397825966e9891e086f66c1a46b92",
+    "csv/supplier.csv": "68ac437337fd4ef6abe79f8bb4b1bc895febc4a3d534d1363ec91c5792afe5c3",
+    "csv/supplier_quote.csv": "a747b5db63df996b5403d37ca567ac93a85f5d7dfa1f93b92942d634c9cf5a9d",
+    "csv/workflow_event.csv": "04cd8826decea4f0a5e1158cb9221be3244811cefaf314b095746cfa2f78bed3"
+  }
+}

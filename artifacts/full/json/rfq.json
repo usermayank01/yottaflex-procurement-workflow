@@ -1,0 +1,3502 @@
+[
+  {
+    "rfq_id": "RFQ-2026-000001",
+    "request_id": "PR-2026-000647",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-03T10:00:00",
+    "expires_at": "2026-01-10T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000002",
+    "request_id": "PR-2026-000473",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-05T10:00:00",
+    "expires_at": "2026-01-12T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000003",
+    "request_id": "PR-2026-000735",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-07T10:00:00",
+    "expires_at": "2026-01-14T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000004",
+    "request_id": "PR-2026-000184",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-09T10:00:00",
+    "expires_at": "2026-01-16T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000005",
+    "request_id": "PR-2026-000240",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-11T10:00:00",
+    "expires_at": "2026-01-18T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000006",
+    "request_id": "PR-2026-000037",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-13T10:00:00",
+    "expires_at": "2026-01-20T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000007",
+    "request_id": "PR-2026-000443",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-15T10:00:00",
+    "expires_at": "2026-01-22T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000008",
+    "request_id": "PR-2026-001131",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-17T10:00:00",
+    "expires_at": "2026-01-24T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000009",
+    "request_id": "PR-2026-000586",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-19T10:00:00",
+    "expires_at": "2026-01-26T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000010",
+    "request_id": "PR-2026-000507",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-21T10:00:00",
+    "expires_at": "2026-01-28T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000011",
+    "request_id": "PR-2026-000642",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-23T10:00:00",
+    "expires_at": "2026-01-30T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000012",
+    "request_id": "PR-2026-000160",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-25T10:00:00",
+    "expires_at": "2026-02-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000013",
+    "request_id": "PR-2026-000521",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-27T10:00:00",
+    "expires_at": "2026-02-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000014",
+    "request_id": "PR-2026-000331",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-29T10:00:00",
+    "expires_at": "2026-02-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000015",
+    "request_id": "PR-2026-000869",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-31T10:00:00",
+    "expires_at": "2026-02-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000016",
+    "request_id": "PR-2026-000112",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-02T10:00:00",
+    "expires_at": "2026-02-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000017",
+    "request_id": "PR-2026-000799",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-04T10:00:00",
+    "expires_at": "2026-02-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000018",
+    "request_id": "PR-2026-001123",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-06T10:00:00",
+    "expires_at": "2026-02-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000019",
+    "request_id": "PR-2026-001055",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-08T10:00:00",
+    "expires_at": "2026-02-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000020",
+    "request_id": "PR-2026-000696",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-10T10:00:00",
+    "expires_at": "2026-02-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000021",
+    "request_id": "PR-2026-000896",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-12T10:00:00",
+    "expires_at": "2026-02-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000022",
+    "request_id": "PR-2026-000156",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-14T10:00:00",
+    "expires_at": "2026-02-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000023",
+    "request_id": "PR-2026-001134",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-16T10:00:00",
+    "expires_at": "2026-02-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000024",
+    "request_id": "PR-2026-000831",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-18T10:00:00",
+    "expires_at": "2026-02-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000025",
+    "request_id": "PR-2026-000983",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-20T10:00:00",
+    "expires_at": "2026-02-27T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000026",
+    "request_id": "PR-2026-001187",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-22T10:00:00",
+    "expires_at": "2026-03-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000027",
+    "request_id": "PR-2026-001091",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-24T10:00:00",
+    "expires_at": "2026-03-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000028",
+    "request_id": "PR-2026-000535",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-26T10:00:00",
+    "expires_at": "2026-03-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000029",
+    "request_id": "PR-2026-000628",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-28T10:00:00",
+    "expires_at": "2026-03-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000030",
+    "request_id": "PR-2026-000810",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-02T10:00:00",
+    "expires_at": "2026-03-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000031",
+    "request_id": "PR-2026-000540",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-04T10:00:00",
+    "expires_at": "2026-03-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000032",
+    "request_id": "PR-2026-001127",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-06T10:00:00",
+    "expires_at": "2026-03-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000033",
+    "request_id": "PR-2026-000401",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-08T10:00:00",
+    "expires_at": "2026-03-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000034",
+    "request_id": "PR-2026-001104",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-10T10:00:00",
+    "expires_at": "2026-03-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000035",
+    "request_id": "PR-2026-000377",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-12T10:00:00",
+    "expires_at": "2026-03-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000036",
+    "request_id": "PR-2026-000917",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-14T10:00:00",
+    "expires_at": "2026-03-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000037",
+    "request_id": "PR-2026-000604",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-16T10:00:00",
+    "expires_at": "2026-03-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000038",
+    "request_id": "PR-2026-000278",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-18T10:00:00",
+    "expires_at": "2026-03-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000039",
+    "request_id": "PR-2026-000216",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-20T10:00:00",
+    "expires_at": "2026-03-27T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000040",
+    "request_id": "PR-2026-000463",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-22T10:00:00",
+    "expires_at": "2026-03-29T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000041",
+    "request_id": "PR-2026-000533",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-24T10:00:00",
+    "expires_at": "2026-03-31T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000042",
+    "request_id": "PR-2026-000546",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-26T10:00:00",
+    "expires_at": "2026-04-02T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000043",
+    "request_id": "PR-2026-000572",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-28T10:00:00",
+    "expires_at": "2026-04-04T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000044",
+    "request_id": "PR-2026-000913",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-30T10:00:00",
+    "expires_at": "2026-04-06T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000045",
+    "request_id": "PR-2026-000954",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-01T10:00:00",
+    "expires_at": "2026-04-08T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000046",
+    "request_id": "PR-2026-000391",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-03T10:00:00",
+    "expires_at": "2026-04-10T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000047",
+    "request_id": "PR-2026-000832",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-05T10:00:00",
+    "expires_at": "2026-04-12T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000048",
+    "request_id": "PR-2026-000335",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-07T10:00:00",
+    "expires_at": "2026-04-14T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000049",
+    "request_id": "PR-2026-000747",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-09T10:00:00",
+    "expires_at": "2026-04-16T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000050",
+    "request_id": "PR-2026-000089",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-11T10:00:00",
+    "expires_at": "2026-04-18T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000051",
+    "request_id": "PR-2026-000662",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-13T10:00:00",
+    "expires_at": "2026-04-20T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000052",
+    "request_id": "PR-2026-000368",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-15T10:00:00",
+    "expires_at": "2026-04-22T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000053",
+    "request_id": "PR-2026-000865",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-17T10:00:00",
+    "expires_at": "2026-04-24T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000054",
+    "request_id": "PR-2026-001175",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-19T10:00:00",
+    "expires_at": "2026-04-26T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000055",
+    "request_id": "PR-2026-000570",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-21T10:00:00",
+    "expires_at": "2026-04-28T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000056",
+    "request_id": "PR-2026-000730",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-23T10:00:00",
+    "expires_at": "2026-04-30T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000057",
+    "request_id": "PR-2026-001002",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-25T10:00:00",
+    "expires_at": "2026-05-02T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000058",
+    "request_id": "PR-2026-000566",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-27T10:00:00",
+    "expires_at": "2026-05-04T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000059",
+    "request_id": "PR-2026-000915",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-29T10:00:00",
+    "expires_at": "2026-05-06T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000060",
+    "request_id": "PR-2026-000210",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-01T10:00:00",
+    "expires_at": "2026-05-08T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000061",
+    "request_id": "PR-2026-000960",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-03T10:00:00",
+    "expires_at": "2026-05-10T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000062",
+    "request_id": "PR-2026-001102",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-05T10:00:00",
+    "expires_at": "2026-05-12T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000063",
+    "request_id": "PR-2026-000882",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-07T10:00:00",
+    "expires_at": "2026-05-14T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000064",
+    "request_id": "PR-2026-000796",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-09T10:00:00",
+    "expires_at": "2026-05-16T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000065",
+    "request_id": "PR-2026-000736",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-11T10:00:00",
+    "expires_at": "2026-05-18T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000066",
+    "request_id": "PR-2026-001067",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-13T10:00:00",
+    "expires_at": "2026-05-20T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000067",
+    "request_id": "PR-2026-000656",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-15T10:00:00",
+    "expires_at": "2026-05-22T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000068",
+    "request_id": "PR-2026-000890",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-17T10:00:00",
+    "expires_at": "2026-05-24T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000069",
+    "request_id": "PR-2026-000825",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-19T10:00:00",
+    "expires_at": "2026-05-26T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000070",
+    "request_id": "PR-2026-000357",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-21T10:00:00",
+    "expires_at": "2026-05-28T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000071",
+    "request_id": "PR-2026-000163",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-23T10:00:00",
+    "expires_at": "2026-05-30T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000072",
+    "request_id": "PR-2026-000777",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-25T10:00:00",
+    "expires_at": "2026-06-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000073",
+    "request_id": "PR-2026-001011",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-27T10:00:00",
+    "expires_at": "2026-06-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000074",
+    "request_id": "PR-2026-001012",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-29T10:00:00",
+    "expires_at": "2026-06-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000075",
+    "request_id": "PR-2026-000439",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-31T10:00:00",
+    "expires_at": "2026-06-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000076",
+    "request_id": "PR-2026-000379",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-02T10:00:00",
+    "expires_at": "2026-06-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000077",
+    "request_id": "PR-2026-001156",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-04T10:00:00",
+    "expires_at": "2026-06-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000078",
+    "request_id": "PR-2026-000687",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-06T10:00:00",
+    "expires_at": "2026-06-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000079",
+    "request_id": "PR-2026-000667",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-08T10:00:00",
+    "expires_at": "2026-06-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000080",
+    "request_id": "PR-2026-000173",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-10T10:00:00",
+    "expires_at": "2026-06-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000081",
+    "request_id": "PR-2026-001019",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-12T10:00:00",
+    "expires_at": "2026-06-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000082",
+    "request_id": "PR-2026-000199",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-14T10:00:00",
+    "expires_at": "2026-06-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000083",
+    "request_id": "PR-2026-000264",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-16T10:00:00",
+    "expires_at": "2026-06-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000084",
+    "request_id": "PR-2026-000073",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-18T10:00:00",
+    "expires_at": "2026-06-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000085",
+    "request_id": "PR-2026-001115",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-20T10:00:00",
+    "expires_at": "2026-06-27T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000086",
+    "request_id": "PR-2026-000978",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-22T10:00:00",
+    "expires_at": "2026-06-29T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000087",
+    "request_id": "PR-2026-001040",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-24T10:00:00",
+    "expires_at": "2026-07-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000088",
+    "request_id": "PR-2026-000010",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-26T10:00:00",
+    "expires_at": "2026-07-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000089",
+    "request_id": "PR-2026-000602",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-28T10:00:00",
+    "expires_at": "2026-07-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000090",
+    "request_id": "PR-2026-000743",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-30T10:00:00",
+    "expires_at": "2026-07-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000091",
+    "request_id": "PR-2026-000417",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-02T10:00:00",
+    "expires_at": "2026-07-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000092",
+    "request_id": "PR-2026-000228",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-04T10:00:00",
+    "expires_at": "2026-07-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000093",
+    "request_id": "PR-2026-000555",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-06T10:00:00",
+    "expires_at": "2026-07-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000094",
+    "request_id": "PR-2026-001100",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-08T10:00:00",
+    "expires_at": "2026-07-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000095",
+    "request_id": "PR-2026-000685",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-10T10:00:00",
+    "expires_at": "2026-07-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000096",
+    "request_id": "PR-2026-000447",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-12T10:00:00",
+    "expires_at": "2026-07-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000097",
+    "request_id": "PR-2026-000820",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-14T10:00:00",
+    "expires_at": "2026-07-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000098",
+    "request_id": "PR-2026-000894",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-16T10:00:00",
+    "expires_at": "2026-07-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000099",
+    "request_id": "PR-2026-001125",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-18T10:00:00",
+    "expires_at": "2026-07-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000100",
+    "request_id": "PR-2026-000247",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-01T10:00:00",
+    "expires_at": "2026-01-08T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000101",
+    "request_id": "PR-2026-000197",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-03T10:00:00",
+    "expires_at": "2026-01-10T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000102",
+    "request_id": "PR-2026-000093",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-05T10:00:00",
+    "expires_at": "2026-01-12T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000103",
+    "request_id": "PR-2026-000359",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-07T10:00:00",
+    "expires_at": "2026-01-14T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000104",
+    "request_id": "PR-2026-000812",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-09T10:00:00",
+    "expires_at": "2026-01-16T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000105",
+    "request_id": "PR-2026-000636",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-11T10:00:00",
+    "expires_at": "2026-01-18T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000106",
+    "request_id": "PR-2026-000848",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-13T10:00:00",
+    "expires_at": "2026-01-20T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000107",
+    "request_id": "PR-2026-000485",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-15T10:00:00",
+    "expires_at": "2026-01-22T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000108",
+    "request_id": "PR-2026-001182",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-17T10:00:00",
+    "expires_at": "2026-01-24T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000109",
+    "request_id": "PR-2026-000440",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-19T10:00:00",
+    "expires_at": "2026-01-26T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000110",
+    "request_id": "PR-2026-001157",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-21T10:00:00",
+    "expires_at": "2026-01-28T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000111",
+    "request_id": "PR-2026-000458",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-23T10:00:00",
+    "expires_at": "2026-01-30T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000112",
+    "request_id": "PR-2026-000164",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-25T10:00:00",
+    "expires_at": "2026-02-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000113",
+    "request_id": "PR-2026-000033",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-27T10:00:00",
+    "expires_at": "2026-02-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000114",
+    "request_id": "PR-2026-001154",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-29T10:00:00",
+    "expires_at": "2026-02-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000115",
+    "request_id": "PR-2026-000511",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-31T10:00:00",
+    "expires_at": "2026-02-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000116",
+    "request_id": "PR-2026-001133",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-02T10:00:00",
+    "expires_at": "2026-02-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000117",
+    "request_id": "PR-2026-000432",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-04T10:00:00",
+    "expires_at": "2026-02-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000118",
+    "request_id": "PR-2026-001092",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-06T10:00:00",
+    "expires_at": "2026-02-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000119",
+    "request_id": "PR-2026-000367",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-08T10:00:00",
+    "expires_at": "2026-02-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000120",
+    "request_id": "PR-2026-000719",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-10T10:00:00",
+    "expires_at": "2026-02-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000121",
+    "request_id": "PR-2026-000916",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-12T10:00:00",
+    "expires_at": "2026-02-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000122",
+    "request_id": "PR-2026-000134",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-14T10:00:00",
+    "expires_at": "2026-02-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000123",
+    "request_id": "PR-2026-000738",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-16T10:00:00",
+    "expires_at": "2026-02-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000124",
+    "request_id": "PR-2026-001114",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-18T10:00:00",
+    "expires_at": "2026-02-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000125",
+    "request_id": "PR-2026-000970",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-20T10:00:00",
+    "expires_at": "2026-02-27T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000126",
+    "request_id": "PR-2026-000974",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-22T10:00:00",
+    "expires_at": "2026-03-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000127",
+    "request_id": "PR-2026-000702",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-24T10:00:00",
+    "expires_at": "2026-03-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000128",
+    "request_id": "PR-2026-000230",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-26T10:00:00",
+    "expires_at": "2026-03-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000129",
+    "request_id": "PR-2026-000714",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-28T10:00:00",
+    "expires_at": "2026-03-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000130",
+    "request_id": "PR-2026-000548",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-02T10:00:00",
+    "expires_at": "2026-03-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000131",
+    "request_id": "PR-2026-000338",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-04T10:00:00",
+    "expires_at": "2026-03-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000132",
+    "request_id": "PR-2026-000793",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-06T10:00:00",
+    "expires_at": "2026-03-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000133",
+    "request_id": "PR-2026-001168",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-08T10:00:00",
+    "expires_at": "2026-03-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000134",
+    "request_id": "PR-2026-000178",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-10T10:00:00",
+    "expires_at": "2026-03-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000135",
+    "request_id": "PR-2026-000569",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-12T10:00:00",
+    "expires_at": "2026-03-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000136",
+    "request_id": "PR-2026-001061",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-14T10:00:00",
+    "expires_at": "2026-03-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000137",
+    "request_id": "PR-2026-000615",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-16T10:00:00",
+    "expires_at": "2026-03-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000138",
+    "request_id": "PR-2026-000562",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-18T10:00:00",
+    "expires_at": "2026-03-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000139",
+    "request_id": "PR-2026-000260",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-20T10:00:00",
+    "expires_at": "2026-03-27T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000140",
+    "request_id": "PR-2026-000938",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-22T10:00:00",
+    "expires_at": "2026-03-29T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000141",
+    "request_id": "PR-2026-000251",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-24T10:00:00",
+    "expires_at": "2026-03-31T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000142",
+    "request_id": "PR-2026-000393",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-26T10:00:00",
+    "expires_at": "2026-04-02T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000143",
+    "request_id": "PR-2026-000124",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-28T10:00:00",
+    "expires_at": "2026-04-04T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000144",
+    "request_id": "PR-2026-000836",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-30T10:00:00",
+    "expires_at": "2026-04-06T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000145",
+    "request_id": "PR-2026-000403",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-01T10:00:00",
+    "expires_at": "2026-04-08T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000146",
+    "request_id": "PR-2026-000619",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-03T10:00:00",
+    "expires_at": "2026-04-10T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000147",
+    "request_id": "PR-2026-000121",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-05T10:00:00",
+    "expires_at": "2026-04-12T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000148",
+    "request_id": "PR-2026-000680",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-07T10:00:00",
+    "expires_at": "2026-04-14T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000149",
+    "request_id": "PR-2026-000488",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-09T10:00:00",
+    "expires_at": "2026-04-16T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000150",
+    "request_id": "PR-2026-000356",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-11T10:00:00",
+    "expires_at": "2026-04-18T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000151",
+    "request_id": "PR-2026-000834",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-13T10:00:00",
+    "expires_at": "2026-04-20T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000152",
+    "request_id": "PR-2026-000358",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-15T10:00:00",
+    "expires_at": "2026-04-22T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000153",
+    "request_id": "PR-2026-001005",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-17T10:00:00",
+    "expires_at": "2026-04-24T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000154",
+    "request_id": "PR-2026-000220",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-19T10:00:00",
+    "expires_at": "2026-04-26T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000155",
+    "request_id": "PR-2026-000145",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-21T10:00:00",
+    "expires_at": "2026-04-28T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000156",
+    "request_id": "PR-2026-000202",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-23T10:00:00",
+    "expires_at": "2026-04-30T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000157",
+    "request_id": "PR-2026-000239",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-25T10:00:00",
+    "expires_at": "2026-05-02T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000158",
+    "request_id": "PR-2026-000684",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-27T10:00:00",
+    "expires_at": "2026-05-04T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000159",
+    "request_id": "PR-2026-000445",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-29T10:00:00",
+    "expires_at": "2026-05-06T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000160",
+    "request_id": "PR-2026-000276",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-01T10:00:00",
+    "expires_at": "2026-05-08T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000161",
+    "request_id": "PR-2026-001109",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-03T10:00:00",
+    "expires_at": "2026-05-10T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000162",
+    "request_id": "PR-2026-000844",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-05T10:00:00",
+    "expires_at": "2026-05-12T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000163",
+    "request_id": "PR-2026-001039",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-07T10:00:00",
+    "expires_at": "2026-05-14T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000164",
+    "request_id": "PR-2026-000899",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-09T10:00:00",
+    "expires_at": "2026-05-16T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000165",
+    "request_id": "PR-2026-000027",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-11T10:00:00",
+    "expires_at": "2026-05-18T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000166",
+    "request_id": "PR-2026-000990",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-13T10:00:00",
+    "expires_at": "2026-05-20T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000167",
+    "request_id": "PR-2026-000734",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-15T10:00:00",
+    "expires_at": "2026-05-22T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000168",
+    "request_id": "PR-2026-000875",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-17T10:00:00",
+    "expires_at": "2026-05-24T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000169",
+    "request_id": "PR-2026-000081",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-19T10:00:00",
+    "expires_at": "2026-05-26T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000170",
+    "request_id": "PR-2026-000061",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-21T10:00:00",
+    "expires_at": "2026-05-28T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000171",
+    "request_id": "PR-2026-000464",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-23T10:00:00",
+    "expires_at": "2026-05-30T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000172",
+    "request_id": "PR-2026-000155",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-25T10:00:00",
+    "expires_at": "2026-06-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000173",
+    "request_id": "PR-2026-000731",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-27T10:00:00",
+    "expires_at": "2026-06-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000174",
+    "request_id": "PR-2026-000949",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-29T10:00:00",
+    "expires_at": "2026-06-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000175",
+    "request_id": "PR-2026-000520",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-31T10:00:00",
+    "expires_at": "2026-06-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000176",
+    "request_id": "PR-2026-000158",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-02T10:00:00",
+    "expires_at": "2026-06-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000177",
+    "request_id": "PR-2026-000622",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-04T10:00:00",
+    "expires_at": "2026-06-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000178",
+    "request_id": "PR-2026-000347",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-06T10:00:00",
+    "expires_at": "2026-06-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000179",
+    "request_id": "PR-2026-000982",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-08T10:00:00",
+    "expires_at": "2026-06-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000180",
+    "request_id": "PR-2026-000963",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-10T10:00:00",
+    "expires_at": "2026-06-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000181",
+    "request_id": "PR-2026-000927",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-12T10:00:00",
+    "expires_at": "2026-06-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000182",
+    "request_id": "PR-2026-000887",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-14T10:00:00",
+    "expires_at": "2026-06-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000183",
+    "request_id": "PR-2026-000123",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-16T10:00:00",
+    "expires_at": "2026-06-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000184",
+    "request_id": "PR-2026-000872",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-18T10:00:00",
+    "expires_at": "2026-06-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000185",
+    "request_id": "PR-2026-000515",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-20T10:00:00",
+    "expires_at": "2026-06-27T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000186",
+    "request_id": "PR-2026-000394",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-22T10:00:00",
+    "expires_at": "2026-06-29T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000187",
+    "request_id": "PR-2026-000498",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-24T10:00:00",
+    "expires_at": "2026-07-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000188",
+    "request_id": "PR-2026-000539",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-26T10:00:00",
+    "expires_at": "2026-07-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000189",
+    "request_id": "PR-2026-000362",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-28T10:00:00",
+    "expires_at": "2026-07-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000190",
+    "request_id": "PR-2026-000775",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-30T10:00:00",
+    "expires_at": "2026-07-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000191",
+    "request_id": "PR-2026-000779",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-02T10:00:00",
+    "expires_at": "2026-07-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000192",
+    "request_id": "PR-2026-000486",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-04T10:00:00",
+    "expires_at": "2026-07-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000193",
+    "request_id": "PR-2026-000699",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-06T10:00:00",
+    "expires_at": "2026-07-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000194",
+    "request_id": "PR-2026-001025",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-08T10:00:00",
+    "expires_at": "2026-07-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000195",
+    "request_id": "PR-2026-000060",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-10T10:00:00",
+    "expires_at": "2026-07-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000196",
+    "request_id": "PR-2026-001021",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-12T10:00:00",
+    "expires_at": "2026-07-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000197",
+    "request_id": "PR-2026-000749",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-14T10:00:00",
+    "expires_at": "2026-07-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000198",
+    "request_id": "PR-2026-001181",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-16T10:00:00",
+    "expires_at": "2026-07-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000199",
+    "request_id": "PR-2026-000094",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-18T10:00:00",
+    "expires_at": "2026-07-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000200",
+    "request_id": "PR-2026-000400",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-01T10:00:00",
+    "expires_at": "2026-01-08T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000201",
+    "request_id": "PR-2026-000005",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-03T10:00:00",
+    "expires_at": "2026-01-10T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000202",
+    "request_id": "PR-2026-000676",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-05T10:00:00",
+    "expires_at": "2026-01-12T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000203",
+    "request_id": "PR-2026-001014",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-07T10:00:00",
+    "expires_at": "2026-01-14T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000204",
+    "request_id": "PR-2026-001003",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-09T10:00:00",
+    "expires_at": "2026-01-16T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000205",
+    "request_id": "PR-2026-000110",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-11T10:00:00",
+    "expires_at": "2026-01-18T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000206",
+    "request_id": "PR-2026-000083",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-13T10:00:00",
+    "expires_at": "2026-01-20T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000207",
+    "request_id": "PR-2026-000041",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-15T10:00:00",
+    "expires_at": "2026-01-22T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000208",
+    "request_id": "PR-2026-000363",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-17T10:00:00",
+    "expires_at": "2026-01-24T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000209",
+    "request_id": "PR-2026-000947",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-19T10:00:00",
+    "expires_at": "2026-01-26T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000210",
+    "request_id": "PR-2026-000761",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-21T10:00:00",
+    "expires_at": "2026-01-28T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000211",
+    "request_id": "PR-2026-001053",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-23T10:00:00",
+    "expires_at": "2026-01-30T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000212",
+    "request_id": "PR-2026-001032",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-25T10:00:00",
+    "expires_at": "2026-02-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000213",
+    "request_id": "PR-2026-000641",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-27T10:00:00",
+    "expires_at": "2026-02-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000214",
+    "request_id": "PR-2026-000817",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-29T10:00:00",
+    "expires_at": "2026-02-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000215",
+    "request_id": "PR-2026-000434",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-31T10:00:00",
+    "expires_at": "2026-02-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000216",
+    "request_id": "PR-2026-001189",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-02T10:00:00",
+    "expires_at": "2026-02-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000217",
+    "request_id": "PR-2026-000750",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-04T10:00:00",
+    "expires_at": "2026-02-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000218",
+    "request_id": "PR-2026-000088",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-06T10:00:00",
+    "expires_at": "2026-02-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000219",
+    "request_id": "PR-2026-001159",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-08T10:00:00",
+    "expires_at": "2026-02-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000220",
+    "request_id": "PR-2026-000461",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-10T10:00:00",
+    "expires_at": "2026-02-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000221",
+    "request_id": "PR-2026-000032",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-12T10:00:00",
+    "expires_at": "2026-02-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000222",
+    "request_id": "PR-2026-000204",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-14T10:00:00",
+    "expires_at": "2026-02-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000223",
+    "request_id": "PR-2026-000427",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-16T10:00:00",
+    "expires_at": "2026-02-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000224",
+    "request_id": "PR-2026-000146",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-18T10:00:00",
+    "expires_at": "2026-02-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000225",
+    "request_id": "PR-2026-001126",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-20T10:00:00",
+    "expires_at": "2026-02-27T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000226",
+    "request_id": "PR-2026-001129",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-22T10:00:00",
+    "expires_at": "2026-03-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000227",
+    "request_id": "PR-2026-000308",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-24T10:00:00",
+    "expires_at": "2026-03-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000228",
+    "request_id": "PR-2026-000725",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-26T10:00:00",
+    "expires_at": "2026-03-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000229",
+    "request_id": "PR-2026-000536",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-28T10:00:00",
+    "expires_at": "2026-03-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000230",
+    "request_id": "PR-2026-001105",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-02T10:00:00",
+    "expires_at": "2026-03-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000231",
+    "request_id": "PR-2026-000787",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-04T10:00:00",
+    "expires_at": "2026-03-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000232",
+    "request_id": "PR-2026-000238",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-06T10:00:00",
+    "expires_at": "2026-03-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000233",
+    "request_id": "PR-2026-000772",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-08T10:00:00",
+    "expires_at": "2026-03-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000234",
+    "request_id": "PR-2026-000332",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-10T10:00:00",
+    "expires_at": "2026-03-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000235",
+    "request_id": "PR-2026-000465",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-12T10:00:00",
+    "expires_at": "2026-03-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000236",
+    "request_id": "PR-2026-000174",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-14T10:00:00",
+    "expires_at": "2026-03-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000237",
+    "request_id": "PR-2026-000809",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-16T10:00:00",
+    "expires_at": "2026-03-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000238",
+    "request_id": "PR-2026-000623",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-18T10:00:00",
+    "expires_at": "2026-03-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000239",
+    "request_id": "PR-2026-000596",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-20T10:00:00",
+    "expires_at": "2026-03-27T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000240",
+    "request_id": "PR-2026-000323",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-22T10:00:00",
+    "expires_at": "2026-03-29T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000241",
+    "request_id": "PR-2026-001142",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-24T10:00:00",
+    "expires_at": "2026-03-31T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000242",
+    "request_id": "PR-2026-000114",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-26T10:00:00",
+    "expires_at": "2026-04-02T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000243",
+    "request_id": "PR-2026-000512",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-28T10:00:00",
+    "expires_at": "2026-04-04T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000244",
+    "request_id": "PR-2026-000526",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-30T10:00:00",
+    "expires_at": "2026-04-06T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000245",
+    "request_id": "PR-2026-000715",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-01T10:00:00",
+    "expires_at": "2026-04-08T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000246",
+    "request_id": "PR-2026-000428",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-03T10:00:00",
+    "expires_at": "2026-04-10T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000247",
+    "request_id": "PR-2026-001051",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-05T10:00:00",
+    "expires_at": "2026-04-12T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000248",
+    "request_id": "PR-2026-000724",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-07T10:00:00",
+    "expires_at": "2026-04-14T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000249",
+    "request_id": "PR-2026-001075",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-09T10:00:00",
+    "expires_at": "2026-04-16T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000250",
+    "request_id": "PR-2026-000091",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-11T10:00:00",
+    "expires_at": "2026-04-18T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000251",
+    "request_id": "PR-2026-000217",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-13T10:00:00",
+    "expires_at": "2026-04-20T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000252",
+    "request_id": "PR-2026-000269",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-15T10:00:00",
+    "expires_at": "2026-04-22T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000253",
+    "request_id": "PR-2026-000389",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-17T10:00:00",
+    "expires_at": "2026-04-24T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000254",
+    "request_id": "PR-2026-000989",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-19T10:00:00",
+    "expires_at": "2026-04-26T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000255",
+    "request_id": "PR-2026-000670",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-21T10:00:00",
+    "expires_at": "2026-04-28T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000256",
+    "request_id": "PR-2026-000104",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-23T10:00:00",
+    "expires_at": "2026-04-30T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000257",
+    "request_id": "PR-2026-000930",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-25T10:00:00",
+    "expires_at": "2026-05-02T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000258",
+    "request_id": "PR-2026-000935",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-27T10:00:00",
+    "expires_at": "2026-05-04T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000259",
+    "request_id": "PR-2026-000314",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-29T10:00:00",
+    "expires_at": "2026-05-06T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000260",
+    "request_id": "PR-2026-000334",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-01T10:00:00",
+    "expires_at": "2026-05-08T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000261",
+    "request_id": "PR-2026-001148",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-03T10:00:00",
+    "expires_at": "2026-05-10T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000262",
+    "request_id": "PR-2026-000593",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-05T10:00:00",
+    "expires_at": "2026-05-12T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000263",
+    "request_id": "PR-2026-000781",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-07T10:00:00",
+    "expires_at": "2026-05-14T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000264",
+    "request_id": "PR-2026-000653",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-09T10:00:00",
+    "expires_at": "2026-05-16T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000265",
+    "request_id": "PR-2026-000798",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-11T10:00:00",
+    "expires_at": "2026-05-18T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000266",
+    "request_id": "PR-2026-000468",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-13T10:00:00",
+    "expires_at": "2026-05-20T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000267",
+    "request_id": "PR-2026-000072",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-15T10:00:00",
+    "expires_at": "2026-05-22T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000268",
+    "request_id": "PR-2026-000757",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-17T10:00:00",
+    "expires_at": "2026-05-24T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000269",
+    "request_id": "PR-2026-001080",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-19T10:00:00",
+    "expires_at": "2026-05-26T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000270",
+    "request_id": "PR-2026-000004",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-21T10:00:00",
+    "expires_at": "2026-05-28T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000271",
+    "request_id": "PR-2026-000025",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-23T10:00:00",
+    "expires_at": "2026-05-30T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000272",
+    "request_id": "PR-2026-000855",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-25T10:00:00",
+    "expires_at": "2026-06-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000273",
+    "request_id": "PR-2026-000477",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-27T10:00:00",
+    "expires_at": "2026-06-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000274",
+    "request_id": "PR-2026-000226",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-29T10:00:00",
+    "expires_at": "2026-06-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000275",
+    "request_id": "PR-2026-000508",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-31T10:00:00",
+    "expires_at": "2026-06-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000276",
+    "request_id": "PR-2026-001088",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-02T10:00:00",
+    "expires_at": "2026-06-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000277",
+    "request_id": "PR-2026-000550",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-04T10:00:00",
+    "expires_at": "2026-06-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000278",
+    "request_id": "PR-2026-000712",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-06T10:00:00",
+    "expires_at": "2026-06-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000279",
+    "request_id": "PR-2026-000958",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-08T10:00:00",
+    "expires_at": "2026-06-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000280",
+    "request_id": "PR-2026-000557",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-10T10:00:00",
+    "expires_at": "2026-06-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000281",
+    "request_id": "PR-2026-000904",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-12T10:00:00",
+    "expires_at": "2026-06-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000282",
+    "request_id": "PR-2026-001177",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-14T10:00:00",
+    "expires_at": "2026-06-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000283",
+    "request_id": "PR-2026-000866",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-16T10:00:00",
+    "expires_at": "2026-06-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000284",
+    "request_id": "PR-2026-000853",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-18T10:00:00",
+    "expires_at": "2026-06-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000285",
+    "request_id": "PR-2026-000215",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-20T10:00:00",
+    "expires_at": "2026-06-27T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000286",
+    "request_id": "PR-2026-000997",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-22T10:00:00",
+    "expires_at": "2026-06-29T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000287",
+    "request_id": "PR-2026-000172",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-24T10:00:00",
+    "expires_at": "2026-07-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000288",
+    "request_id": "PR-2026-000118",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-26T10:00:00",
+    "expires_at": "2026-07-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000289",
+    "request_id": "PR-2026-000370",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-28T10:00:00",
+    "expires_at": "2026-07-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000290",
+    "request_id": "PR-2026-000476",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-30T10:00:00",
+    "expires_at": "2026-07-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000291",
+    "request_id": "PR-2026-000423",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-02T10:00:00",
+    "expires_at": "2026-07-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000292",
+    "request_id": "PR-2026-000281",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-04T10:00:00",
+    "expires_at": "2026-07-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000293",
+    "request_id": "PR-2026-000681",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-06T10:00:00",
+    "expires_at": "2026-07-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000294",
+    "request_id": "PR-2026-000399",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-08T10:00:00",
+    "expires_at": "2026-07-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000295",
+    "request_id": "PR-2026-000366",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-10T10:00:00",
+    "expires_at": "2026-07-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000296",
+    "request_id": "PR-2026-000953",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-12T10:00:00",
+    "expires_at": "2026-07-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000297",
+    "request_id": "PR-2026-001085",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-14T10:00:00",
+    "expires_at": "2026-07-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000298",
+    "request_id": "PR-2026-000096",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-16T10:00:00",
+    "expires_at": "2026-07-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000299",
+    "request_id": "PR-2026-000450",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-18T10:00:00",
+    "expires_at": "2026-07-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000300",
+    "request_id": "PR-2026-001146",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-01T10:00:00",
+    "expires_at": "2026-01-08T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000301",
+    "request_id": "PR-2026-000528",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-03T10:00:00",
+    "expires_at": "2026-01-10T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000302",
+    "request_id": "PR-2026-000578",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-05T10:00:00",
+    "expires_at": "2026-01-12T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000303",
+    "request_id": "PR-2026-000045",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-07T10:00:00",
+    "expires_at": "2026-01-14T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000304",
+    "request_id": "PR-2026-000626",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-09T10:00:00",
+    "expires_at": "2026-01-16T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000305",
+    "request_id": "PR-2026-000542",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-11T10:00:00",
+    "expires_at": "2026-01-18T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000306",
+    "request_id": "PR-2026-000043",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-13T10:00:00",
+    "expires_at": "2026-01-20T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000307",
+    "request_id": "PR-2026-001101",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-15T10:00:00",
+    "expires_at": "2026-01-22T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000308",
+    "request_id": "PR-2026-000339",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-17T10:00:00",
+    "expires_at": "2026-01-24T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000309",
+    "request_id": "PR-2026-000420",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-19T10:00:00",
+    "expires_at": "2026-01-26T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000310",
+    "request_id": "PR-2026-000900",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-21T10:00:00",
+    "expires_at": "2026-01-28T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000311",
+    "request_id": "PR-2026-000631",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-23T10:00:00",
+    "expires_at": "2026-01-30T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000312",
+    "request_id": "PR-2026-000965",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-25T10:00:00",
+    "expires_at": "2026-02-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000313",
+    "request_id": "PR-2026-000788",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-27T10:00:00",
+    "expires_at": "2026-02-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000314",
+    "request_id": "PR-2026-000414",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-29T10:00:00",
+    "expires_at": "2026-02-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000315",
+    "request_id": "PR-2026-000011",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-31T10:00:00",
+    "expires_at": "2026-02-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000316",
+    "request_id": "PR-2026-000119",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-02T10:00:00",
+    "expires_at": "2026-02-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000317",
+    "request_id": "PR-2026-000454",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-04T10:00:00",
+    "expires_at": "2026-02-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000318",
+    "request_id": "PR-2026-000767",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-06T10:00:00",
+    "expires_at": "2026-02-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000319",
+    "request_id": "PR-2026-000125",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-08T10:00:00",
+    "expires_at": "2026-02-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000320",
+    "request_id": "PR-2026-000720",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-10T10:00:00",
+    "expires_at": "2026-02-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000321",
+    "request_id": "PR-2026-000977",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-12T10:00:00",
+    "expires_at": "2026-02-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000322",
+    "request_id": "PR-2026-000128",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-14T10:00:00",
+    "expires_at": "2026-02-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000323",
+    "request_id": "PR-2026-000046",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-16T10:00:00",
+    "expires_at": "2026-02-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000324",
+    "request_id": "PR-2026-000236",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-18T10:00:00",
+    "expires_at": "2026-02-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000325",
+    "request_id": "PR-2026-001172",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-20T10:00:00",
+    "expires_at": "2026-02-27T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000326",
+    "request_id": "PR-2026-000981",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-22T10:00:00",
+    "expires_at": "2026-03-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000327",
+    "request_id": "PR-2026-000587",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-24T10:00:00",
+    "expires_at": "2026-03-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000328",
+    "request_id": "PR-2026-000136",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-26T10:00:00",
+    "expires_at": "2026-03-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000329",
+    "request_id": "PR-2026-000718",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-28T10:00:00",
+    "expires_at": "2026-03-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000330",
+    "request_id": "PR-2026-000406",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-02T10:00:00",
+    "expires_at": "2026-03-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000331",
+    "request_id": "PR-2026-000161",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-04T10:00:00",
+    "expires_at": "2026-03-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000332",
+    "request_id": "PR-2026-000208",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-06T10:00:00",
+    "expires_at": "2026-03-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000333",
+    "request_id": "PR-2026-000305",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-08T10:00:00",
+    "expires_at": "2026-03-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000334",
+    "request_id": "PR-2026-001200",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-10T10:00:00",
+    "expires_at": "2026-03-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000335",
+    "request_id": "PR-2026-000716",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-12T10:00:00",
+    "expires_at": "2026-03-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000336",
+    "request_id": "PR-2026-000957",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-14T10:00:00",
+    "expires_at": "2026-03-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000337",
+    "request_id": "PR-2026-000095",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-16T10:00:00",
+    "expires_at": "2026-03-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000338",
+    "request_id": "PR-2026-000101",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-18T10:00:00",
+    "expires_at": "2026-03-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000339",
+    "request_id": "PR-2026-000580",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-20T10:00:00",
+    "expires_at": "2026-03-27T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000340",
+    "request_id": "PR-2026-001007",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-22T10:00:00",
+    "expires_at": "2026-03-29T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000341",
+    "request_id": "PR-2026-001176",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-24T10:00:00",
+    "expires_at": "2026-03-31T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000342",
+    "request_id": "PR-2026-000098",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-26T10:00:00",
+    "expires_at": "2026-04-02T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000343",
+    "request_id": "PR-2026-000646",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-28T10:00:00",
+    "expires_at": "2026-04-04T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000344",
+    "request_id": "PR-2026-000036",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-30T10:00:00",
+    "expires_at": "2026-04-06T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000345",
+    "request_id": "PR-2026-000645",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-01T10:00:00",
+    "expires_at": "2026-04-08T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000346",
+    "request_id": "PR-2026-000302",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-03T10:00:00",
+    "expires_at": "2026-04-10T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000347",
+    "request_id": "PR-2026-000221",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-05T10:00:00",
+    "expires_at": "2026-04-12T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000348",
+    "request_id": "PR-2026-001044",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-07T10:00:00",
+    "expires_at": "2026-04-14T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000349",
+    "request_id": "PR-2026-000729",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-09T10:00:00",
+    "expires_at": "2026-04-16T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000350",
+    "request_id": "PR-2026-000392",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-11T10:00:00",
+    "expires_at": "2026-04-18T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000351",
+    "request_id": "PR-2026-000588",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-13T10:00:00",
+    "expires_at": "2026-04-20T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000352",
+    "request_id": "PR-2026-001119",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-15T10:00:00",
+    "expires_at": "2026-04-22T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000353",
+    "request_id": "PR-2026-000402",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-17T10:00:00",
+    "expires_at": "2026-04-24T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000354",
+    "request_id": "PR-2026-000067",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-19T10:00:00",
+    "expires_at": "2026-04-26T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000355",
+    "request_id": "PR-2026-000213",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-21T10:00:00",
+    "expires_at": "2026-04-28T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000356",
+    "request_id": "PR-2026-000342",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-23T10:00:00",
+    "expires_at": "2026-04-30T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000357",
+    "request_id": "PR-2026-000710",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-25T10:00:00",
+    "expires_at": "2026-05-02T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000358",
+    "request_id": "PR-2026-000697",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-27T10:00:00",
+    "expires_at": "2026-05-04T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000359",
+    "request_id": "PR-2026-001112",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-29T10:00:00",
+    "expires_at": "2026-05-06T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000360",
+    "request_id": "PR-2026-000107",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-01T10:00:00",
+    "expires_at": "2026-05-08T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000361",
+    "request_id": "PR-2026-000206",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-03T10:00:00",
+    "expires_at": "2026-05-10T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000362",
+    "request_id": "PR-2026-000763",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-05T10:00:00",
+    "expires_at": "2026-05-12T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000363",
+    "request_id": "PR-2026-000187",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-07T10:00:00",
+    "expires_at": "2026-05-14T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000364",
+    "request_id": "PR-2026-000252",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-09T10:00:00",
+    "expires_at": "2026-05-16T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000365",
+    "request_id": "PR-2026-000242",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-11T10:00:00",
+    "expires_at": "2026-05-18T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000366",
+    "request_id": "PR-2026-000290",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-13T10:00:00",
+    "expires_at": "2026-05-20T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000367",
+    "request_id": "PR-2026-000303",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-15T10:00:00",
+    "expires_at": "2026-05-22T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000368",
+    "request_id": "PR-2026-000243",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-17T10:00:00",
+    "expires_at": "2026-05-24T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000369",
+    "request_id": "PR-2026-001113",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-19T10:00:00",
+    "expires_at": "2026-05-26T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000370",
+    "request_id": "PR-2026-000505",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-21T10:00:00",
+    "expires_at": "2026-05-28T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000371",
+    "request_id": "PR-2026-001169",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-23T10:00:00",
+    "expires_at": "2026-05-30T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000372",
+    "request_id": "PR-2026-000381",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-25T10:00:00",
+    "expires_at": "2026-06-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000373",
+    "request_id": "PR-2026-000198",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-27T10:00:00",
+    "expires_at": "2026-06-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000374",
+    "request_id": "PR-2026-000845",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-29T10:00:00",
+    "expires_at": "2026-06-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000375",
+    "request_id": "PR-2026-000677",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-31T10:00:00",
+    "expires_at": "2026-06-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000376",
+    "request_id": "PR-2026-000487",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-02T10:00:00",
+    "expires_at": "2026-06-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000377",
+    "request_id": "PR-2026-000980",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-04T10:00:00",
+    "expires_at": "2026-06-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000378",
+    "request_id": "PR-2026-001132",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-06T10:00:00",
+    "expires_at": "2026-06-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000379",
+    "request_id": "PR-2026-000453",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-08T10:00:00",
+    "expires_at": "2026-06-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000380",
+    "request_id": "PR-2026-000686",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-10T10:00:00",
+    "expires_at": "2026-06-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000381",
+    "request_id": "PR-2026-000683",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-12T10:00:00",
+    "expires_at": "2026-06-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000382",
+    "request_id": "PR-2026-000231",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-14T10:00:00",
+    "expires_at": "2026-06-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000383",
+    "request_id": "PR-2026-000175",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-16T10:00:00",
+    "expires_at": "2026-06-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000384",
+    "request_id": "PR-2026-000756",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-18T10:00:00",
+    "expires_at": "2026-06-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000385",
+    "request_id": "PR-2026-000162",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-20T10:00:00",
+    "expires_at": "2026-06-27T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000386",
+    "request_id": "PR-2026-000186",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-22T10:00:00",
+    "expires_at": "2026-06-29T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000387",
+    "request_id": "PR-2026-000906",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-24T10:00:00",
+    "expires_at": "2026-07-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000388",
+    "request_id": "PR-2026-000150",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-26T10:00:00",
+    "expires_at": "2026-07-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000389",
+    "request_id": "PR-2026-000689",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-28T10:00:00",
+    "expires_at": "2026-07-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000390",
+    "request_id": "PR-2026-000006",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-30T10:00:00",
+    "expires_at": "2026-07-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000391",
+    "request_id": "PR-2026-000345",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-02T10:00:00",
+    "expires_at": "2026-07-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000392",
+    "request_id": "PR-2026-000665",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-04T10:00:00",
+    "expires_at": "2026-07-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000393",
+    "request_id": "PR-2026-000479",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-06T10:00:00",
+    "expires_at": "2026-07-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000394",
+    "request_id": "PR-2026-000365",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-08T10:00:00",
+    "expires_at": "2026-07-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000395",
+    "request_id": "PR-2026-000603",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-10T10:00:00",
+    "expires_at": "2026-07-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000396",
+    "request_id": "PR-2026-000510",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-12T10:00:00",
+    "expires_at": "2026-07-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000397",
+    "request_id": "PR-2026-000257",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-14T10:00:00",
+    "expires_at": "2026-07-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000398",
+    "request_id": "PR-2026-001089",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-16T10:00:00",
+    "expires_at": "2026-07-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000399",
+    "request_id": "PR-2026-001042",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-18T10:00:00",
+    "expires_at": "2026-07-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000400",
+    "request_id": "PR-2026-000708",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-01T10:00:00",
+    "expires_at": "2026-01-08T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000401",
+    "request_id": "PR-2026-001099",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-03T10:00:00",
+    "expires_at": "2026-01-10T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000402",
+    "request_id": "PR-2026-000704",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-05T10:00:00",
+    "expires_at": "2026-01-12T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000403",
+    "request_id": "PR-2026-001197",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-07T10:00:00",
+    "expires_at": "2026-01-14T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000404",
+    "request_id": "PR-2026-000149",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-09T10:00:00",
+    "expires_at": "2026-01-16T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000405",
+    "request_id": "PR-2026-000902",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-11T10:00:00",
+    "expires_at": "2026-01-18T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000406",
+    "request_id": "PR-2026-000601",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-13T10:00:00",
+    "expires_at": "2026-01-20T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000407",
+    "request_id": "PR-2026-000698",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-15T10:00:00",
+    "expires_at": "2026-01-22T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000408",
+    "request_id": "PR-2026-001095",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-17T10:00:00",
+    "expires_at": "2026-01-24T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000409",
+    "request_id": "PR-2026-000530",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-19T10:00:00",
+    "expires_at": "2026-01-26T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000410",
+    "request_id": "PR-2026-000001",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-21T10:00:00",
+    "expires_at": "2026-01-28T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000411",
+    "request_id": "PR-2026-000190",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-23T10:00:00",
+    "expires_at": "2026-01-30T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000412",
+    "request_id": "PR-2026-000442",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-25T10:00:00",
+    "expires_at": "2026-02-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000413",
+    "request_id": "PR-2026-000499",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-27T10:00:00",
+    "expires_at": "2026-02-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000414",
+    "request_id": "PR-2026-001137",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-29T10:00:00",
+    "expires_at": "2026-02-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000415",
+    "request_id": "PR-2026-000771",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-31T10:00:00",
+    "expires_at": "2026-02-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000416",
+    "request_id": "PR-2026-000441",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-02T10:00:00",
+    "expires_at": "2026-02-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000417",
+    "request_id": "PR-2026-000621",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-04T10:00:00",
+    "expires_at": "2026-02-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000418",
+    "request_id": "PR-2026-001017",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-06T10:00:00",
+    "expires_at": "2026-02-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000419",
+    "request_id": "PR-2026-001199",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-08T10:00:00",
+    "expires_at": "2026-02-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000420",
+    "request_id": "PR-2026-000361",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-10T10:00:00",
+    "expires_at": "2026-02-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000421",
+    "request_id": "PR-2026-000992",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-12T10:00:00",
+    "expires_at": "2026-02-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000422",
+    "request_id": "PR-2026-000483",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-14T10:00:00",
+    "expires_at": "2026-02-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000423",
+    "request_id": "PR-2026-000489",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-16T10:00:00",
+    "expires_at": "2026-02-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000424",
+    "request_id": "PR-2026-000388",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-18T10:00:00",
+    "expires_at": "2026-02-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000425",
+    "request_id": "PR-2026-000563",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-20T10:00:00",
+    "expires_at": "2026-02-27T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000426",
+    "request_id": "PR-2026-000496",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-22T10:00:00",
+    "expires_at": "2026-03-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000427",
+    "request_id": "PR-2026-000850",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-24T10:00:00",
+    "expires_at": "2026-03-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000428",
+    "request_id": "PR-2026-000492",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-26T10:00:00",
+    "expires_at": "2026-03-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000429",
+    "request_id": "PR-2026-000233",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-02-28T10:00:00",
+    "expires_at": "2026-03-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000430",
+    "request_id": "PR-2026-001043",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-02T10:00:00",
+    "expires_at": "2026-03-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000431",
+    "request_id": "PR-2026-001103",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-04T10:00:00",
+    "expires_at": "2026-03-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000432",
+    "request_id": "PR-2026-001072",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-06T10:00:00",
+    "expires_at": "2026-03-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000433",
+    "request_id": "PR-2026-000074",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-08T10:00:00",
+    "expires_at": "2026-03-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000434",
+    "request_id": "PR-2026-000148",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-10T10:00:00",
+    "expires_at": "2026-03-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000435",
+    "request_id": "PR-2026-000674",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-12T10:00:00",
+    "expires_at": "2026-03-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000436",
+    "request_id": "PR-2026-001185",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-14T10:00:00",
+    "expires_at": "2026-03-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000437",
+    "request_id": "PR-2026-000474",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-16T10:00:00",
+    "expires_at": "2026-03-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000438",
+    "request_id": "PR-2026-000664",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-18T10:00:00",
+    "expires_at": "2026-03-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000439",
+    "request_id": "PR-2026-000713",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-20T10:00:00",
+    "expires_at": "2026-03-27T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000440",
+    "request_id": "PR-2026-000205",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-22T10:00:00",
+    "expires_at": "2026-03-29T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000441",
+    "request_id": "PR-2026-000971",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-24T10:00:00",
+    "expires_at": "2026-03-31T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000442",
+    "request_id": "PR-2026-000321",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-26T10:00:00",
+    "expires_at": "2026-04-02T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000443",
+    "request_id": "PR-2026-000404",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-28T10:00:00",
+    "expires_at": "2026-04-04T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000444",
+    "request_id": "PR-2026-000592",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-03-30T10:00:00",
+    "expires_at": "2026-04-06T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000445",
+    "request_id": "PR-2026-000341",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-01T10:00:00",
+    "expires_at": "2026-04-08T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000446",
+    "request_id": "PR-2026-000408",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-03T10:00:00",
+    "expires_at": "2026-04-10T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000447",
+    "request_id": "PR-2026-000802",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-05T10:00:00",
+    "expires_at": "2026-04-12T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000448",
+    "request_id": "PR-2026-000518",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-07T10:00:00",
+    "expires_at": "2026-04-14T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000449",
+    "request_id": "PR-2026-000329",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-09T10:00:00",
+    "expires_at": "2026-04-16T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000450",
+    "request_id": "PR-2026-000861",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-11T10:00:00",
+    "expires_at": "2026-04-18T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000451",
+    "request_id": "PR-2026-000350",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-13T10:00:00",
+    "expires_at": "2026-04-20T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000452",
+    "request_id": "PR-2026-000532",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-15T10:00:00",
+    "expires_at": "2026-04-22T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000453",
+    "request_id": "PR-2026-000795",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-17T10:00:00",
+    "expires_at": "2026-04-24T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000454",
+    "request_id": "PR-2026-000225",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-19T10:00:00",
+    "expires_at": "2026-04-26T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000455",
+    "request_id": "PR-2026-001026",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-21T10:00:00",
+    "expires_at": "2026-04-28T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000456",
+    "request_id": "PR-2026-001111",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-23T10:00:00",
+    "expires_at": "2026-04-30T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000457",
+    "request_id": "PR-2026-000057",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-25T10:00:00",
+    "expires_at": "2026-05-02T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000458",
+    "request_id": "PR-2026-000928",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-27T10:00:00",
+    "expires_at": "2026-05-04T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000459",
+    "request_id": "PR-2026-000296",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-04-29T10:00:00",
+    "expires_at": "2026-05-06T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000460",
+    "request_id": "PR-2026-000416",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-01T10:00:00",
+    "expires_at": "2026-05-08T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000461",
+    "request_id": "PR-2026-000911",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-03T10:00:00",
+    "expires_at": "2026-05-10T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000462",
+    "request_id": "PR-2026-000433",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-05T10:00:00",
+    "expires_at": "2026-05-12T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000463",
+    "request_id": "PR-2026-000324",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-07T10:00:00",
+    "expires_at": "2026-05-14T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000464",
+    "request_id": "PR-2026-000087",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-09T10:00:00",
+    "expires_at": "2026-05-16T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000465",
+    "request_id": "PR-2026-000232",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-11T10:00:00",
+    "expires_at": "2026-05-18T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000466",
+    "request_id": "PR-2026-000547",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-13T10:00:00",
+    "expires_at": "2026-05-20T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000467",
+    "request_id": "PR-2026-000673",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-15T10:00:00",
+    "expires_at": "2026-05-22T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000468",
+    "request_id": "PR-2026-001138",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-17T10:00:00",
+    "expires_at": "2026-05-24T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000469",
+    "request_id": "PR-2026-000182",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-19T10:00:00",
+    "expires_at": "2026-05-26T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000470",
+    "request_id": "PR-2026-000782",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-21T10:00:00",
+    "expires_at": "2026-05-28T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000471",
+    "request_id": "PR-2026-000139",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-23T10:00:00",
+    "expires_at": "2026-05-30T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000472",
+    "request_id": "PR-2026-000022",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-25T10:00:00",
+    "expires_at": "2026-06-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000473",
+    "request_id": "PR-2026-000564",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-27T10:00:00",
+    "expires_at": "2026-06-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000474",
+    "request_id": "PR-2026-000340",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-29T10:00:00",
+    "expires_at": "2026-06-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000475",
+    "request_id": "PR-2026-000625",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-05-31T10:00:00",
+    "expires_at": "2026-06-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000476",
+    "request_id": "PR-2026-000959",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-02T10:00:00",
+    "expires_at": "2026-06-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000477",
+    "request_id": "PR-2026-001070",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-04T10:00:00",
+    "expires_at": "2026-06-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000478",
+    "request_id": "PR-2026-000800",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-06T10:00:00",
+    "expires_at": "2026-06-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000479",
+    "request_id": "PR-2026-001153",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-08T10:00:00",
+    "expires_at": "2026-06-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000480",
+    "request_id": "PR-2026-001062",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-10T10:00:00",
+    "expires_at": "2026-06-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000481",
+    "request_id": "PR-2026-000838",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-12T10:00:00",
+    "expires_at": "2026-06-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000482",
+    "request_id": "PR-2026-001046",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-14T10:00:00",
+    "expires_at": "2026-06-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000483",
+    "request_id": "PR-2026-000317",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-16T10:00:00",
+    "expires_at": "2026-06-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000484",
+    "request_id": "PR-2026-000079",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-18T10:00:00",
+    "expires_at": "2026-06-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000485",
+    "request_id": "PR-2026-000344",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-20T10:00:00",
+    "expires_at": "2026-06-27T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000486",
+    "request_id": "PR-2026-000255",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-22T10:00:00",
+    "expires_at": "2026-06-29T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000487",
+    "request_id": "PR-2026-000195",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-24T10:00:00",
+    "expires_at": "2026-07-01T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000488",
+    "request_id": "PR-2026-000760",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-26T10:00:00",
+    "expires_at": "2026-07-03T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000489",
+    "request_id": "PR-2026-000249",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-28T10:00:00",
+    "expires_at": "2026-07-05T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000490",
+    "request_id": "PR-2026-000634",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-06-30T10:00:00",
+    "expires_at": "2026-07-07T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000491",
+    "request_id": "PR-2026-001171",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-02T10:00:00",
+    "expires_at": "2026-07-09T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000492",
+    "request_id": "PR-2026-001147",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-04T10:00:00",
+    "expires_at": "2026-07-11T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000493",
+    "request_id": "PR-2026-000390",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-06T10:00:00",
+    "expires_at": "2026-07-13T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000494",
+    "request_id": "PR-2026-000701",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-08T10:00:00",
+    "expires_at": "2026-07-15T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000495",
+    "request_id": "PR-2026-000050",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-10T10:00:00",
+    "expires_at": "2026-07-17T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000496",
+    "request_id": "PR-2026-001192",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-12T10:00:00",
+    "expires_at": "2026-07-19T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000497",
+    "request_id": "PR-2026-000727",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-14T10:00:00",
+    "expires_at": "2026-07-21T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000498",
+    "request_id": "PR-2026-000203",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-16T10:00:00",
+    "expires_at": "2026-07-23T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000499",
+    "request_id": "PR-2026-001141",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-07-18T10:00:00",
+    "expires_at": "2026-07-25T10:00:00"
+  },
+  {
+    "rfq_id": "RFQ-2026-000500",
+    "request_id": "PR-2026-000864",
+    "status": "QUOTES_RECEIVED",
+    "issued_at": "2026-01-01T10:00:00",
+    "expires_at": "2026-01-08T10:00:00"
+  }
+]

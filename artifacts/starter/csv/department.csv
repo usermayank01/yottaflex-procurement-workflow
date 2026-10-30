@@ -1,0 +1,9 @@
+department_id,name,approval_threshold,currency
+DEP-001,IT,4000.0,INR
+DEP-002,Finance,5000.0,INR
+DEP-003,Operations,6000.0,INR
+DEP-004,Facilities,3000.0,INR
+DEP-005,HR,4000.0,INR
+DEP-006,Sales,5000.0,INR
+DEP-007,Procurement,6000.0,INR
+DEP-008,Engineering,3000.0,INR

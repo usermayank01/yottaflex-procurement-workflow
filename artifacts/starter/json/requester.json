@@ -1,0 +1,142 @@
+[
+  {
+    "requester_id": "REQ-0001",
+    "name": "Aarav Sharma",
+    "email": "user0001@example.local",
+    "department_id": "DEP-001",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0002",
+    "name": "Vivaan Sharma",
+    "email": "user0002@example.local",
+    "department_id": "DEP-002",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0003",
+    "name": "Aditya Sharma",
+    "email": "user0003@example.local",
+    "department_id": "DEP-003",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0004",
+    "name": "Arjun Sharma",
+    "email": "user0004@example.local",
+    "department_id": "DEP-004",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0005",
+    "name": "Ishaan Sharma",
+    "email": "user0005@example.local",
+    "department_id": "DEP-005",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0006",
+    "name": "Kabir Sharma",
+    "email": "user0006@example.local",
+    "department_id": "DEP-006",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0007",
+    "name": "Riya Sharma",
+    "email": "user0007@example.local",
+    "department_id": "DEP-007",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0008",
+    "name": "Ananya Sharma",
+    "email": "user0008@example.local",
+    "department_id": "DEP-008",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0009",
+    "name": "Diya Sharma",
+    "email": "user0009@example.local",
+    "department_id": "DEP-001",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0010",
+    "name": "Meera Sharma",
+    "email": "user0010@example.local",
+    "department_id": "DEP-002",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0011",
+    "name": "Aarav Singh",
+    "email": "user0011@example.local",
+    "department_id": "DEP-003",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0012",
+    "name": "Vivaan Singh",
+    "email": "user0012@example.local",
+    "department_id": "DEP-004",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0013",
+    "name": "Aditya Singh",
+    "email": "user0013@example.local",
+    "department_id": "DEP-005",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0014",
+    "name": "Arjun Singh",
+    "email": "user0014@example.local",
+    "department_id": "DEP-006",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0015",
+    "name": "Ishaan Singh",
+    "email": "user0015@example.local",
+    "department_id": "DEP-007",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0016",
+    "name": "Kabir Singh",
+    "email": "user0016@example.local",
+    "department_id": "DEP-008",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0017",
+    "name": "Riya Singh",
+    "email": "user0017@example.local",
+    "department_id": "DEP-001",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0018",
+    "name": "Ananya Singh",
+    "email": "user0018@example.local",
+    "department_id": "DEP-002",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0019",
+    "name": "Diya Singh",
+    "email": "user0019@example.local",
+    "department_id": "DEP-003",
+    "active": 1
+  },
+  {
+    "requester_id": "REQ-0020",
+    "name": "Meera Singh",
+    "email": "user0020@example.local",
+    "department_id": "DEP-004",
+    "active": 1
+  }
+]

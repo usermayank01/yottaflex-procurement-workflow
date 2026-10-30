@@ -1,0 +1,50 @@
+[
+  {
+    "department_id": "DEP-001",
+    "name": "IT",
+    "approval_threshold": 4000.0,
+    "currency": "INR"
+  },
+  {
+    "department_id": "DEP-002",
+    "name": "Finance",
+    "approval_threshold": 5000.0,
+    "currency": "INR"
+  },
+  {
+    "department_id": "DEP-003",
+    "name": "Operations",
+    "approval_threshold": 6000.0,
+    "currency": "INR"
+  },
+  {
+    "department_id": "DEP-004",
+    "name": "Facilities",
+    "approval_threshold": 3000.0,
+    "currency": "INR"
+  },
+  {
+    "department_id": "DEP-005",
+    "name": "HR",
+    "approval_threshold": 4000.0,
+    "currency": "INR"
+  },
+  {
+    "department_id": "DEP-006",
+    "name": "Sales",
+    "approval_threshold": 5000.0,
+    "currency": "INR"
+  },
+  {
+    "department_id": "DEP-007",
+    "name": "Procurement",
+    "approval_threshold": 6000.0,
+    "currency": "INR"
+  },
+  {
+    "department_id": "DEP-008",
+    "name": "Engineering",
+    "approval_threshold": 3000.0,
+    "currency": "INR"
+  }
+]

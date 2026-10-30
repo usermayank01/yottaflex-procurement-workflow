@@ -1,0 +1,58 @@
+[
+  {
+    "case_id": "GT-0001",
+    "entity_type": "PurchaseOrder",
+    "entity_id": "PO-2026-000001",
+    "issue_type": "PO_WITHOUT_APPROVAL",
+    "ground_truth_label": "REJECT",
+    "rationale": "PO requires approval when threshold is exceeded."
+  },
+  {
+    "case_id": "GT-0002",
+    "entity_type": "SupplierQuote",
+    "entity_id": "QUO-S0004-2026-000001",
+    "issue_type": "QUOTE_EXPIRED_BEFORE_AWARD",
+    "ground_truth_label": "REJECT",
+    "rationale": "Expired quotes cannot be awarded."
+  },
+  {
+    "case_id": "GT-0003",
+    "entity_type": "SupplierQuote",
+    "entity_id": "QUO-S0005-2026-000002",
+    "issue_type": "NONCHEAPEST_WITHOUT_RATIONALE",
+    "ground_truth_label": "REVIEW",
+    "rationale": "A non-cheapest selection requires documented rationale."
+  },
+  {
+    "case_id": "GT-0004",
+    "entity_type": "Supplier",
+    "entity_id": "SUP-0010",
+    "issue_type": "INACTIVE_SUPPLIER",
+    "ground_truth_label": "REJECT",
+    "rationale": "Inactive suppliers are ineligible for award."
+  },
+  {
+    "case_id": "GT-0005",
+    "entity_type": "Budget",
+    "entity_id": "BUG-001",
+    "issue_type": "BUDGET_OVERRUN",
+    "ground_truth_label": "REVIEW",
+    "rationale": "Budget exceptions require review."
+  },
+  {
+    "case_id": "GT-0006",
+    "entity_type": "PurchaseRequest",
+    "entity_id": "PR-2026-000001",
+    "issue_type": "DUPLICATE_REQUEST",
+    "ground_truth_label": "REVIEW",
+    "rationale": "Duplicate requests should be flagged."
+  },
+  {
+    "case_id": "GT-0007",
+    "entity_type": "SupplierQuote",
+    "entity_id": "QUO-S0008-2026-000045",
+    "issue_type": "QUOTE_CURRENCY_MISMATCH",
+    "ground_truth_label": "REVIEW",
+    "rationale": "Currency must match before comparison/award."
+  }
+]

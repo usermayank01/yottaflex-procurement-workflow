@@ -1,0 +1,15 @@
+SCHEMA = {
+"requester":["requester_id","name","email","department_id","active"],
+"department":["department_id","name","approval_threshold","currency"],
+"budget":["budget_id","department_id","fiscal_year","allocated_amount","reserved_amount"],
+"purchase_request":["request_id","requester_id","department_id","budget_id","status","requested_at","estimated_total","currency","approval_required"],
+"request_line":["request_line_id","request_id","item","category","quantity","unit_cost","estimated_cost","currency"],
+"supplier":["supplier_id","supplier_code","name","active","risk_flag","currency"],
+"rfq":["rfq_id","request_id","status","issued_at","expires_at"],
+"supplier_quote":["quote_id","rfq_id","supplier_id","quoted_total","shipping_cost","landed_cost","delivery_days","currency","valid_until","status","selection_rationale"],
+"approval":["approval_id","request_id","approver_role","status","approved_at","reason"],
+"purchase_order":["po_id","request_id","quote_id","supplier_id","status","awarded_total","currency","issued_at"],
+"delivery":["delivery_id","po_id","event_type","event_date","quantity","status"],
+"workflow_event":["event_id","entity_type","entity_id","event_type","from_status","to_status","event_time","actor","reason"],
+"ground_truth":["case_id","entity_type","entity_id","issue_type","ground_truth_label","rationale"],
+}

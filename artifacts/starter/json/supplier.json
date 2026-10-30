@@ -1,0 +1,82 @@
+[
+  {
+    "supplier_id": "SUP-0001",
+    "supplier_code": "S0001",
+    "name": "Northstar Supplier 001",
+    "active": 1,
+    "risk_flag": "LOW",
+    "currency": "INR"
+  },
+  {
+    "supplier_id": "SUP-0002",
+    "supplier_code": "S0002",
+    "name": "BluePeak Supplier 002",
+    "active": 1,
+    "risk_flag": "LOW",
+    "currency": "INR"
+  },
+  {
+    "supplier_id": "SUP-0003",
+    "supplier_code": "S0003",
+    "name": "Vertex Supplier 003",
+    "active": 1,
+    "risk_flag": "LOW",
+    "currency": "INR"
+  },
+  {
+    "supplier_id": "SUP-0004",
+    "supplier_code": "S0004",
+    "name": "Apex Supplier 004",
+    "active": 1,
+    "risk_flag": "LOW",
+    "currency": "INR"
+  },
+  {
+    "supplier_id": "SUP-0005",
+    "supplier_code": "S0005",
+    "name": "Orion Supplier 005",
+    "active": 1,
+    "risk_flag": "LOW",
+    "currency": "INR"
+  },
+  {
+    "supplier_id": "SUP-0006",
+    "supplier_code": "S0006",
+    "name": "Nimbus Supplier 006",
+    "active": 1,
+    "risk_flag": "LOW",
+    "currency": "INR"
+  },
+  {
+    "supplier_id": "SUP-0007",
+    "supplier_code": "S0007",
+    "name": "Cedar Supplier 007",
+    "active": 1,
+    "risk_flag": "MEDIUM",
+    "currency": "INR"
+  },
+  {
+    "supplier_id": "SUP-0008",
+    "supplier_code": "S0008",
+    "name": "Summit Supplier 008",
+    "active": 1,
+    "risk_flag": "LOW",
+    "currency": "INR"
+  },
+  {
+    "supplier_id": "SUP-0009",
+    "supplier_code": "S0009",
+    "name": "Prime Supplier 009",
+    "active": 1,
+    "risk_flag": "LOW",
+    "currency": "INR"
+  },
+  {
+    "supplier_id": "SUP-0010",
+    "supplier_code": "S0010",
+    "name": "Atlas Supplier 010",
+    "active": 1,
+    "risk_flag": "LOW",
+    "currency": "INR"
+  }
+]

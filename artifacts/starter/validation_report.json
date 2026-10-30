@@ -1,0 +1,162 @@
+{
+  "passed": true,
+  "passed_checks": 31,
+  "total_checks": 31,
+  "checks": [
+    {
+      "name": "requester.primary_key_unique",
+      "passed": true,
+      "detail": "20 rows; 20 unique IDs"
+    },
+    {
+      "name": "department.primary_key_unique",
+      "passed": true,
+      "detail": "8 rows; 8 unique IDs"
+    },
+    {
+      "name": "budget.primary_key_unique",
+      "passed": true,
+      "detail": "8 rows; 8 unique IDs"
+    },
+    {
+      "name": "purchase_request.primary_key_unique",
+      "passed": true,
+      "detail": "40 rows; 40 unique IDs"
+    },
+    {
+      "name": "request_line.primary_key_unique",
+      "passed": true,
+      "detail": "80 rows; 80 unique IDs"
+    },
+    {
+      "name": "supplier.primary_key_unique",
+      "passed": true,
+      "detail": "10 rows; 10 unique IDs"
+    },
+    {
+      "name": "rfq.primary_key_unique",
+      "passed": true,
+      "detail": "15 rows; 15 unique IDs"
+    },
+    {
+      "name": "supplier_quote.primary_key_unique",
+      "passed": true,
+      "detail": "45 rows; 45 unique IDs"
+    },
+    {
+      "name": "approval.primary_key_unique",
+      "passed": true,
+      "detail": "34 rows; 34 unique IDs"
+    },
+    {
+      "name": "purchase_order.primary_key_unique",
+      "passed": true,
+      "detail": "25 rows; 25 unique IDs"
+    },
+    {
+      "name": "delivery.primary_key_unique",
+      "passed": true,
+      "detail": "25 rows; 25 unique IDs"
+    },
+    {
+      "name": "workflow_event.primary_key_unique",
+      "passed": true,
+      "detail": "25 rows; 25 unique IDs"
+    },
+    {
+      "name": "ground_truth.primary_key_unique",
+      "passed": true,
+      "detail": "7 rows; 7 unique IDs"
+    },
+    {
+      "name": "requester.department_id_foreign_key",
+      "passed": true,
+      "detail": "all references resolve"
+    },
+    {
+      "name": "budget.department_id_foreign_key",
+      "passed": true,
+      "detail": "all references resolve"
+    },
+    {
+      "name": "purchase_request.requester_id_foreign_key",
+      "passed": true,
+      "detail": "all references resolve"
+    },
+    {
+      "name": "purchase_request.department_id_foreign_key",
+      "passed": true,
+      "detail": "all references resolve"
+    },
+    {
+      "name": "purchase_request.budget_id_foreign_key",
+      "passed": true,
+      "detail": "all references resolve"
+    },
+    {
+      "name": "request_line.request_id_foreign_key",
+      "passed": true,
+      "detail": "all references resolve"
+    },
+    {
+      "name": "rfq.request_id_foreign_key",
+      "passed": true,
+      "detail": "all references resolve"
+    },
+    {
+      "name": "supplier_quote.rfq_id_foreign_key",
+      "passed": true,
+      "detail": "all references resolve"
+    },
+    {
+      "name": "supplier_quote.supplier_id_foreign_key",
+      "passed": true,
+      "detail": "all references resolve"
+    },
+    {
+      "name": "approval.request_id_foreign_key",
+      "passed": true,
+      "detail": "all references resolve"
+    },
+    {
+      "name": "purchase_order.request_id_foreign_key",
+      "passed": true,
+      "detail": "all references resolve"
+    },
+    {
+      "name": "purchase_order.quote_id_foreign_key",
+      "passed": true,
+      "detail": "all references resolve"
+    },
+    {
+      "name": "purchase_order.supplier_id_foreign_key",
+      "passed": true,
+      "detail": "all references resolve"
+    },
+    {
+      "name": "delivery.po_id_foreign_key",
+      "passed": true,
+      "detail": "all references resolve"
+    },
+    {
+      "name": "request_total_reconciliation",
+      "passed": true,
+      "detail": "request totals equal request-line sums"
+    },
+    {
+      "name": "po_quote_reconciliation",
+      "passed": true,
+      "detail": "PO values equal awarded quote landed costs"
+    },
+    {
+      "name": "rfq_minimum_quotes",
+      "passed": true,
+      "detail": "every RFQ has at least three quotes"
+    },
+    {
+      "name": "required_edge_cases_present",
+      "passed": true,
+      "detail": "missing: []"
+    }
+  ]
+}

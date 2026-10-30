@@ -1,0 +1,11 @@
+supplier_id,supplier_code,name,active,risk_flag,currency
+SUP-0001,S0001,Northstar Supplier 001,1,LOW,INR
+SUP-0002,S0002,BluePeak Supplier 002,1,LOW,INR
+SUP-0003,S0003,Vertex Supplier 003,1,LOW,INR
+SUP-0004,S0004,Apex Supplier 004,1,LOW,INR
+SUP-0005,S0005,Orion Supplier 005,1,LOW,INR
+SUP-0006,S0006,Nimbus Supplier 006,1,LOW,INR
+SUP-0007,S0007,Cedar Supplier 007,1,MEDIUM,INR
+SUP-0008,S0008,Summit Supplier 008,1,LOW,INR
+SUP-0009,S0009,Prime Supplier 009,1,LOW,INR
+SUP-0010,S0010,Atlas Supplier 010,1,LOW,INR

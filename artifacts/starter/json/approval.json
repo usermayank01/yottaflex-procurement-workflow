@@ -1,0 +1,274 @@
+[
+  {
+    "approval_id": "APR-000001",
+    "request_id": "PR-2026-000001",
+    "approver_role": "DIRECTOR",
+    "status": "APPROVED",
+    "approved_at": "2026-01-03T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000002",
+    "request_id": "PR-2026-000002",
+    "approver_role": "DIRECTOR",
+    "status": "APPROVED",
+    "approved_at": "2026-01-04T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000003",
+    "request_id": "PR-2026-000003",
+    "approver_role": "MANAGER",
+    "status": "APPROVED",
+    "approved_at": "2026-01-05T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000004",
+    "request_id": "PR-2026-000004",
+    "approver_role": "DIRECTOR",
+    "status": "APPROVED",
+    "approved_at": "2026-01-06T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000005",
+    "request_id": "PR-2026-000005",
+    "approver_role": "DIRECTOR",
+    "status": "APPROVED",
+    "approved_at": "2026-01-07T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000006",
+    "request_id": "PR-2026-000006",
+    "approver_role": "DIRECTOR",
+    "status": "APPROVED",
+    "approved_at": "2026-01-08T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000007",
+    "request_id": "PR-2026-000007",
+    "approver_role": "DIRECTOR",
+    "status": "APPROVED",
+    "approved_at": "2026-01-09T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000008",
+    "request_id": "PR-2026-000008",
+    "approver_role": "MANAGER",
+    "status": "APPROVED",
+    "approved_at": "2026-01-10T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000011",
+    "request_id": "PR-2026-000011",
+    "approver_role": "MANAGER",
+    "status": "APPROVED",
+    "approved_at": "2026-01-13T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000012",
+    "request_id": "PR-2026-000012",
+    "approver_role": "MANAGER",
+    "status": "APPROVED",
+    "approved_at": "2026-01-14T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000013",
+    "request_id": "PR-2026-000013",
+    "approver_role": "MANAGER",
+    "status": "APPROVED",
+    "approved_at": "2026-01-15T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000014",
+    "request_id": "PR-2026-000014",
+    "approver_role": "DIRECTOR",
+    "status": "APPROVED",
+    "approved_at": "2026-01-16T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000015",
+    "request_id": "PR-2026-000015",
+    "approver_role": "MANAGER",
+    "status": "APPROVED",
+    "approved_at": "2026-01-17T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000016",
+    "request_id": "PR-2026-000016",
+    "approver_role": "MANAGER",
+    "status": "APPROVED",
+    "approved_at": "2026-01-18T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000017",
+    "request_id": "PR-2026-000017",
+    "approver_role": "DIRECTOR",
+    "status": "APPROVED",
+    "approved_at": "2026-01-19T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000018",
+    "request_id": "PR-2026-000018",
+    "approver_role": "DIRECTOR",
+    "status": "APPROVED",
+    "approved_at": "2026-01-20T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000020",
+    "request_id": "PR-2026-000020",
+    "approver_role": "DIRECTOR",
+    "status": "APPROVED",
+    "approved_at": "2026-01-22T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000022",
+    "request_id": "PR-2026-000022",
+    "approver_role": "MANAGER",
+    "status": "APPROVED",
+    "approved_at": "2026-01-24T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000023",
+    "request_id": "PR-2026-000023",
+    "approver_role": "MANAGER",
+    "status": "APPROVED",
+    "approved_at": "2026-01-25T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000024",
+    "request_id": "PR-2026-000024",
+    "approver_role": "MANAGER",
+    "status": "APPROVED",
+    "approved_at": "2026-01-26T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000025",
+    "request_id": "PR-2026-000025",
+    "approver_role": "DIRECTOR",
+    "status": "APPROVED",
+    "approved_at": "2026-01-27T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000026",
+    "request_id": "PR-2026-000026",
+    "approver_role": "DIRECTOR",
+    "status": "APPROVED",
+    "approved_at": "2026-01-28T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000027",
+    "request_id": "PR-2026-000027",
+    "approver_role": "MANAGER",
+    "status": "APPROVED",
+    "approved_at": "2026-01-29T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000028",
+    "request_id": "PR-2026-000028",
+    "approver_role": "DIRECTOR",
+    "status": "APPROVED",
+    "approved_at": "2026-01-30T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000029",
+    "request_id": "PR-2026-000029",
+    "approver_role": "MANAGER",
+    "status": "APPROVED",
+    "approved_at": "2026-01-31T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000031",
+    "request_id": "PR-2026-000031",
+    "approver_role": "MANAGER",
+    "status": "APPROVED",
+    "approved_at": "2026-02-02T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000032",
+    "request_id": "PR-2026-000032",
+    "approver_role": "DIRECTOR",
+    "status": "APPROVED",
+    "approved_at": "2026-02-03T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000033",
+    "request_id": "PR-2026-000033",
+    "approver_role": "MANAGER",
+    "status": "APPROVED",
+    "approved_at": "2026-02-04T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000034",
+    "request_id": "PR-2026-000034",
+    "approver_role": "DIRECTOR",
+    "status": "APPROVED",
+    "approved_at": "2026-02-05T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000035",
+    "request_id": "PR-2026-000035",
+    "approver_role": "DIRECTOR",
+    "status": "APPROVED",
+    "approved_at": "2026-02-06T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000036",
+    "request_id": "PR-2026-000036",
+    "approver_role": "DIRECTOR",
+    "status": "APPROVED",
+    "approved_at": "2026-02-07T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000037",
+    "request_id": "PR-2026-000037",
+    "approver_role": "DIRECTOR",
+    "status": "APPROVED",
+    "approved_at": "2026-02-08T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000038",
+    "request_id": "PR-2026-000038",
+    "approver_role": "MANAGER",
+    "status": "APPROVED",
+    "approved_at": "2026-02-09T10:00:00",
+    "reason": "Threshold-based approval granted"
+  },
+  {
+    "approval_id": "APR-000040",
+    "request_id": "PR-2026-000040",
+    "approver_role": "MANAGER",
+    "status": "APPROVED",
+    "approved_at": "2026-02-11T10:00:00",
+    "reason": "Threshold-based approval granted"
+  }
+]
